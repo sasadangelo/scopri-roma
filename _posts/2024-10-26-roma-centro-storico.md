@@ -27,10 +27,20 @@ Piazza del Popolo è il punto ideale per iniziare il vostro itinerario. Questo l
 
 ### Porta Flaminia
 
+<figure>
+  <img src="/assets/img/Porta-Flaminia.jpeg" alt="Porta Flaminia"/>
+  <figcaption>Foto 1: Porta Flaminia</figcaption>
+</figure>
+
 {: .text-justify}
 L’ingresso a Piazza del Popolo avviene attraverso la **Porta del Popolo** detta anche **Porta Flaminia** (__Foto 1__), progettata da Michelangelo e completata da Nanni di Baccio Bigio tra il 1562 e il 1565. Le colonne della facciata provengono dall’antica basilica di San Pietro e nel 1638 furono aggiunte le statue di San Pietro e San Paolo. La facciata interna, realizzata da Gian Lorenzo Bernini, è altrettanto affascinante.
 
 ### La Piazza
+
+<figure>
+  <img src="/assets/img/Piazza-del-Popolo-vista-alto-frecce.jpeg" alt="Piazza del Popolo (vista dall'alto)"/>
+  <figcaption>Foto 1: Piazza del Popolo (vista dall'alto)</figcaption>
+</figure>
 
 {: .text-justify}
 La __Foto 2__ mostra la vista dall'alto di Piazza del Popolo con delle frecce che indicano i punti salienti che, a mio avviso, dovete conoscere.
@@ -57,7 +67,7 @@ Posizionandovi vicino all'obelisco con alle spalle la Porta Flaminia vedrete di 
 Subito dopo aver attraversato la Porta Flaminia, a sinistra si trova la Basilica di Santa Maria del Popolo, un vero gioiello artistico ricco di storia e capolavori.
 
 <figure>
-  <img class="img-left" src="/assets/img/Basilica-di-Santa-Maria-del-Popolo.jpg" alt="Basilica Santa Maria del Popolo"/>
+  <img src="/assets/img/Basilica-di-Santa-Maria-del-Popolo.jpg" width="450" height="251" alt="Basilica Santa Maria del Popolo"/>
   <figcaption>Foto 3: Basilica di Santa Maria del Popolo</figcaption>
 </figure>
 
@@ -76,7 +86,7 @@ Nella prima cappella della navata di destra si trova la Cappella del Presepio, c
 ### Museo Leonardo da Vinci
 
 <figure>
-  <img class="img-right" src="/assets/img/Museo-Leonardo-da-Vinci.jpeg" alt="Museo Leonardo da Vinci"/>
+  <img src="/assets/img/Museo-Leonardo-da-Vinci.jpeg" alt="Museo Leonardo da Vinci"/>
   <figcaption>Foto 4: Museo Leonardo da Vinci</figcaption>
 </figure>
 
@@ -86,7 +96,7 @@ Situato nei sotterranei della basilica, il museo offre una ricostruzione delle m
 ### Terrazzo del Pincio
 
 <figure>
-  <img class="img-left" src="/assets/img/Terrazzo-del-Pincio.jpeg" alt="Terrazzo del Pincio"/>
+  <img src="/assets/img/Terrazzo-del-Pincio.jpeg" alt="Terrazzo del Pincio"/>
   <figcaption>Foto 5: Terrazzo del Pincio</figcaption>
 </figure>
 
@@ -102,7 +112,7 @@ La terrazza è stata progettata da Giuseppe Valadier e la sua costruzione è ini
 ### Fontana della Dea Roma
 
 <figure>
-  <img class="img-right" src="/assets/img/Fontana-della-Dea-Roma.jpeg" alt="Fontana della Dea Roma"/>
+  <img src="/assets/img/Fontana-della-Dea-Roma.jpeg" alt="Fontana della Dea Roma"/>
   <figcaption>Foto 6: Fontana della Dea Roma</figcaption>
 </figure>
 
@@ -118,7 +128,7 @@ La vasca semicircolare, realizzata in travertino, raccoglie l'acqua che scorre d
 ### Fontana del Nettuno
 
 <figure>
-  <img class="img-left" src="/assets/img/Fontana-del-Nettuno.jpeg" alt="Fontana del Nettuno"/>
+  <img src="/assets/img/Fontana-del-Nettuno.jpeg" alt="Fontana del Nettuno"/>
   <figcaption>Foto 7: Fontana del Nettuno</figcaption>
 </figure>
 
@@ -134,7 +144,8 @@ Anche questa fontana è stata restaurata insieme all'intero complesso monumental
 ### Obelisco Flaminio
 
 <figure>
-  <img class="img-right" src="/assets/img/obelisco-flaminio.jpeg" alt="Obelisco Flaminio"/>
+  <img src="/assets/img/obelisco-flaminio.jpeg" alt="Obelisco Flaminio"/><br/>
+
   <figcaption>Foto 8: Obelisco Flaminio</figcaption>
 </figure>
 
@@ -144,7 +155,7 @@ Al centro della piazza si erge l'obelisco Flaminio, alto quasi 37 metri, risalen
 ### Basilica di Santa Maria in Montesanto (Chiesa degli Artisti)
 
 <figure>
-  <img class="img-left" src="/assets/img/S_Maria_di_Montesanto.jpeg" alt="Santa Maria di Montesanto"/>
+  <img src="/assets/img/S_Maria_di_Montesanto.jpeg" alt="Santa Maria di Montesanto"/>
   <figcaption>Foto 9: Santa Maria di Montesanto</figcaption>
 </figure>
 
@@ -154,7 +165,7 @@ La Basilica di Santa Maria in Montesanto, situata in Piazza del Popolo, è conos
 ### Basilica di Santa Maria dei Miracoli
 
 <figure>
-  <img class="img-right" src="/assets/img/S_Maria_dei_Miracoli.jpg" alt="Santa Maria dei Miracoli"/>
+  <img src="/assets/img/S_Maria_dei_Miracoli.jpg" alt="Santa Maria dei Miracoli"/>
   <figcaption>Foto 10: Santa Maria dei Miracoli</figcaption>
 </figure>
 
@@ -164,7 +175,7 @@ La Basilica di Santa Maria dei Miracoli, situata in Piazza del Popolo, è una de
 ## Via del Corso
 
 <figure>
-  <img class="img-left" src="/assets/img/Via_del_Corso.jpeg" alt="Via del Corso"/>
+  <img src="/assets/img/Via_del_Corso.jpeg" alt="Via del Corso"/>
   <figcaption>Foto 11: Via del Corso</figcaption>
 </figure>
 
@@ -180,7 +191,7 @@ Oltre a arte e cultura, Via del Corso è un’importante via dello shopping, con
 ## Via dei Condotti
 
 <figure>
-  <img class="img-right" src="/assets/img/Via-dei-Condotti.jpeg" alt="Via dei Condotti"/>
+  <img src="/assets/img/Via-dei-Condotti.jpeg" alt="Via dei Condotti"/>
   <figcaption>Foto 12: Via dei Condotti</figcaption>
 </figure>
 
@@ -193,7 +204,7 @@ Ma Via dei Condotti non è solo moda. Lungo il percorso da **Largo Goldoni** a *
 ## Piazza di Spagna
 
 <figure>
-  <img class="img-left" src="/assets/img/Piazza-di-Spagna-vista-alto.jpeg" alt="Piazza di Spagna vista dall'alto"/>
+  <img src="/assets/img/Piazza-di-Spagna-vista-alto.jpeg" alt="Piazza di Spagna vista dall'alto"/>
   <figcaption>Foto 13: Piazza di Spagna vista dall'alto</figcaption>
 </figure>
 
@@ -206,7 +217,7 @@ Appena arrivati, vi troverete davanti alla **Fontana Barcaccia** (C), anche se i
 ### Fontana della Barcaccia
 
 <figure>
-  <img class="img-right" src="/assets/img/Fontana-della-Barcaccia.jpeg" alt="Fontana della Barcaccia"/>
+  <img src="/assets/img/Fontana-della-Barcaccia.jpeg" alt="Fontana della Barcaccia"/>
   <figcaption>Foto 14: Fontana della Barcaccia</figcaption>
 </figure>
 
@@ -219,7 +230,7 @@ Il termine "barcaccia" si riferisce alle imbarcazioni usate sul Tevere nel vicin
 ### La Scalinata
 
 <figure>
-  <img class="img-left" src="/assets/img/Scalinata-Piazza-di-Spagna.jpg" alt="Scalinata Piazza di Spagna"/>
+  <img src="/assets/img/Scalinata-Piazza-di-Spagna.jpg" alt="Scalinata Piazza di Spagna"/>
   <figcaption>Foto 15: Scalinata Piazza di Spagna</figcaption>
 </figure>
 
@@ -232,7 +243,7 @@ All'angolo destro si trova la casa del poeta inglese John Keats, dove visse e mo
 ### Obelisco Sallustiano
 
 <figure>
-  <img class="img-right" src="/assets/img/Obelisco_Sallustiano.jpeg" alt="Obelisco Sallustiano"/>
+  <img src="/assets/img/Obelisco_Sallustiano.jpeg" alt="Obelisco Sallustiano"/>
   <figcaption>Foto 16: Obelisco Sallustiano</figcaption>
 </figure>
 
@@ -245,7 +256,7 @@ L'iscrizione in geroglifici fu realizzata solo dopo il trasporto, con errori di 
 ### Chiesa di Trinità dei Monti
 
 <figure>
-  <img class="img-left" src="/assets/img/Chiesa_Trinita_dei_Monti.jpeg" alt="Chiesa Trinita dei Monti"/>
+  <img src="/assets/img/Chiesa_Trinita_dei_Monti.jpeg" alt="Chiesa Trinita dei Monti"/>
   <figcaption>Foto 17: Chiesa Trinita dei Monti</figcaption>
 </figure>
 
@@ -261,7 +272,7 @@ Intorno al 1774, Giuseppe Pannini modificò la volta principale, sostituendo le 
 ### Palazzo di Spagna
 
 <figure>
-  <img class="img-left" src="/assets/img/Palazzo-di-Spagna.jpeg" alt="Palazzo di Spagna"/>
+  <img src="/assets/img/Palazzo-di-Spagna.jpeg" alt="Palazzo di Spagna"/>
   <figcaption>Foto 19: Palazzo di Spagna</figcaption>
 </figure>
 
@@ -274,7 +285,7 @@ Durante il XVII e XVIII secolo, il palazzo divenne un elegante ritrovo per event
 ### La Colonna dell'Immacolata Concezione
 
 <figure>
-  <img class="img-left" src="/assets/img/Colonna-Immacolata-Concezione.jpeg" alt="Colonna Immacolata Concezione"/>
+  <img src="/assets/img/Colonna-Immacolata-Concezione.jpeg" alt="Colonna Immacolata Concezione"/>
   <figcaption>Foto 19: Colonna Immacolata Concezione</figcaption>
 </figure>
 
@@ -284,7 +295,7 @@ La Colonna dell'Immacolata Concezione, eretta nel XIX secolo in Piazza Mignanell
 ### Palazzo di Propaganda Fide
 
 <figure>
-  <img class="img-right" src="/assets/img/Palazzo-Propaganda-Fide.jpeg" alt="Palazzo Propaganda Fide"/>
+  <img src="/assets/img/Palazzo-Propaganda-Fide.jpeg" alt="Palazzo Propaganda Fide"/>
   <figcaption>Foto 20: Palazzo Propaganda Fide</figcaption>
 </figure>
 
@@ -294,7 +305,7 @@ Lasciamo Piazza Mignanelli e ci dirigiamo verso via di Propaganda Fide, dove si 
 ### Basilica di Sant'Andrea delle Fratte
 
 <figure>
-  <img class="img-left" src="/assets/img/Basilica-Sant-Andrea-delle-Fratte.jpeg" alt="Basilica Sant'Andrea delle Fratte"/>
+  <img src="/assets/img/Basilica-Sant-Andrea-delle-Fratte.jpeg" alt="Basilica Sant'Andrea delle Fratte"/>
   <figcaption>Foto 21: Basilica Sant'Andrea delle Fratte</figcaption>
 </figure>
 
@@ -306,7 +317,7 @@ La Basilica di Sant'Andrea delle Fratte, situata nel centro di Roma, è nota per
 ### Fontana di Trevi
 
 <figure>
-  <img class="img-right" src="/assets/img/Fontana-di-Trevi.jpeg" alt="Fontana di Trevi"/>
+  <img src="/assets/img/Fontana-di-Trevi.jpeg" alt="Fontana di Trevi"/>
   <figcaption>Foto 22: Fontana di Trevi</figcaption>
 </figure>
 
@@ -322,7 +333,7 @@ Sebbene il progetto principale sia di Salvi, molti artisti hanno contribuito all
 ### Mercatini di via delle Muratte
 
 <figure>
-  <img class="img-left" src="/assets/img/Via-Muratte.jpeg" alt="Mercatini di Via delle Muratte"/>
+  <img src="/assets/img/Via-Muratte.jpeg" alt="Mercatini di Via delle Muratte"/>
   <figcaption>Foto 23: Mercatini di Via delle Muratte</figcaption>
 </figure>
 
@@ -336,15 +347,30 @@ Piazza Colonna e Piazza Montecitorio sono due delle piazze più significative di
 
 ### Piazza Colonna
 
+<figure>
+  <img src="/assets/img/Piazza-Colonna.jpg" alt="Piazza Colonna"/>
+  <figcaption>Foto 24: Piazza Colonna</figcaption>
+</figure>
+
 {: .text-justify}
 Piazza Colonna è una delle piazze più emblematiche di Roma, dominata dalla Colonna di Marco Aurelio, un monumento che celebra le gesta dell'imperatore con rilievi dettagliati. Oltre a essere circondata da importanti edifici storici, tra cui Palazzo Chigi, la piazza ospita la Galleria Colonna, famosa per la sua ricca collezione d’arte e il suggestivo giardino all’italiana, rendendola un luogo ideale per passeggiate e pause culturali.
 
 ### Piazza Montecitorio
 
+<figure>
+  <img src="/assets/img/Piazza-Montecitorio.jpg" alt="Piazza Montecitorio"/>
+  <figcaption>Foto 25: Piazza Montecitorio</figcaption>
+</figure>
+
 {: .text-justify}
 Piazza Montecitorio è il fulcro dell’attività politica italiana, sede della Camera dei Deputati e caratterizzata dall’imponente Palazzo Montecitorio, progettato da Gian Lorenzo Bernini. Al centro della piazza si erge un obelisco egizio, mentre i caffè e i negozi circostanti creano un’atmosfera vivace, trasformando questo spazio in un punto di incontro per cittadini e turisti interessati alla storia e alla politica della capitale.
 
 ## Pantheon
+
+<figure>
+  <img src="/assets/img/Pantheon.jpg" alt="Pantheon"/>
+  <figcaption>Foto 26: Pantheon</figcaption>
+</figure>
 
 {: .text-justify}
 Il Pantheon è uno dei monumenti meglio conservati dell’antica Roma e rappresenta un capolavoro di ingegneria e architettura. Costruito nel II secolo d.C. e dedicato a tutte le divinità, il Pantheon è noto per la sua maestosa cupola, che presenta un oculo centrale che illumina l’interno con un gioco di luci suggestivo. La struttura è caratterizzata da un portico con colonne corinzie, e un atrio che accoglie i visitatori, rendendolo un luogo di grande importanza storica e spirituale.
@@ -356,6 +382,11 @@ All'interno, il Pantheon colpisce per la sua grandezza e armonia, con un diametr
 Oltre alla sua funzione religiosa, il Pantheon è anche un luogo di sepoltura: qui riposa il celebre pittore Raffaello Sanzio, la cui tomba è situata sul lato destro dell'ingresso, a testimonianza della sua importanza nella storia dell'arte. Questo monumento, che ha ispirato artisti e architetti per secoli, continua a essere una meta imperdibile per chi visita Roma.
 
 ## Piazza Navona
+
+<figure>
+  <img src="/assets/img/Piazza-Navona.webp" alt="Piazza Navona"/>
+  <figcaption>Foto 27: Piazza Navona</figcaption>
+</figure>
 
 {: .text-justify}
 Piazza Navona è una delle piazze più belle e vivaci di Roma, caratterizzata da un'architettura barocca affascinante e un'atmosfera animata. La piazza si sviluppa sull'antico Stadio di Domiziano e conserva ancora la sua forma ovale originale. Al centro della piazza, si trovano tre splendide fontane: la Fontana dei Quattro Fiumi, la Fontana del Moro e la Fontana del Nettuno, che aggiungono un tocco di grandezza e bellezza all'ambiente.

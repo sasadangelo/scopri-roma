@@ -40,6 +40,11 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+assets:
+  stylesheets:
+    - /assets/css/main.scss
+    - /_sass/custom.scss
+
 locale                   : "it-IT"
 classes: wide
 # Exclude from processing.
