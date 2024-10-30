@@ -397,25 +397,50 @@ Piazza Navona è famosa per i suoi artisti di strada, che creano un'atmosfera vi
 
 ### Chiesa di Santa Agnese in Agone
 
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/Chiesa-SantAgnese-Agone.jpg" alt="Chiesa di Sant Agnese in Agone"/>
+  <figcaption>Foto 28: Chiesa di Sant Agnese in Agone</figcaption>
+</figure>
+
 {: .text-justify}
 Dominando un lato della piazza c'è la Chiesa di Santa Agnese in Agone, progettata da Francesco Borromini e completata nel 1652. La chiesa è dedicata a Santa Agnese, martire cristiana, e il suo stile barocco è un esempio magistrale dell'arte dell'epoca. All'interno, si possono ammirare affreschi, opere d'arte e una cupola spettacolare che rappresenta il culmine della grandiosità barocca.
 
 ### Fontana dei Quattro Fiumi
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/Fontana-4-Fiumi.jpg" alt="Fontana dei 4 Fiumi"/>
+  <figcaption>Foto 29: Fontana dei 4 Fiumi</figcaption>
+</figure>
 
 {: .text-justify}
 Al centro di Piazza Navona si trova la Fontana dei Quattro Fiumi, progettata da Gian Lorenzo Bernini. Questa monumentale fontana rappresenta i quattro fiumi più importanti del mondo conosciuto all'epoca: il Nilo, il Gange, il Danubio e la Plata, ognuno dei quali è simboleggiato da una figura maschile. L’opera è caratterizzata da un’imponente obelisco egizio che svetta al centro della fontana.
 
 ### Fontana del Moro
 
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/Fontana-Moro.jpeg" alt="Fontana del Moro"/>
+  <figcaption>Foto 30: Fontana del Moro</figcaption>
+</figure>
+
 {: .text-justify}
 Situata all'estremità meridionale della piazza, la Fontana del Moro è un’altra delle opere di Bernini, completata nel 1653. Raffigura un moro che lotta con un delfino, circondato da tritoni e pesci, ed è apprezzata per la sua eleganza e la dinamicità delle forme.
 
 ### Fontana del Nettuno
 
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/Fontana-Nettuno.jpg" alt="Fontana del Nettuno"/>
+  <figcaption>Foto 31: Fontana del Nettuno</figcaption>
+</figure>
+
 {: .text-justify}
 All'estremità settentrionale della piazza si trova la Fontana del Nettuno, realizzata da Giacomo della Porta nel 1576 e successivamente completata da Antonio Gherardi nel 1651. La fontana rappresenta Nettuno mentre combatte con un cavallo marino, circondato da figure che rappresentano le divinità marine e che evocano la potenza e la bellezza del mare.
 
 ## Campo dei Fiori
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/Campo-dei-Fiori.jpg" alt="Campo dei Fiori"/>
+  <figcaption>Foto 32: Campo dei Fiori</figcaption>
+</figure>
 
 {: .text-justify}
 Campo dei Fiori è una delle piazze più vivaci e caratteristiche di Roma, nota per il suo mercato di frutta e verdura che si svolge ogni mattina. Circondata da ristoranti, bar e botteghe, la piazza è un luogo di incontro per locali e turisti. Al centro si erge la statua di Giordano Bruno, il filosofo e teologo bruciato sul rogo nel 1600, che simboleggia la libertà di pensiero. La piazza, con la sua atmosfera informale e le sue tradizioni, è un perfetto esempio della vita quotidiana romana.
