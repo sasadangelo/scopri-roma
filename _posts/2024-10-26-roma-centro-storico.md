@@ -2,12 +2,13 @@
 layout: single
 title:  "Cose da Vedere a Roma in 1 Giorno - Centro Storico"
 date:   2024-10-26
+permalink: /roma-centro-storico/
 categories: Itinerari
+classes: wide
+author_profile: false
 ---
 
-# Cose da Vedere a Roma in 1 Giorno
-
-## Centro Storico - Piazza di Spagna, Fontana di Trevi e Piazza Navona
+## Introduzione
 
 {: .text-justify}
 Se hai solo un giorno a disposizione e vuoi scoprire le meraviglie del centro storico di Roma, questa guida è fatta apposta per te! Ti accompagneremo attraverso alcuni dei luoghi più iconici, dove potrai ammirare arte, storia e cultura con tutta la calma necessaria per goderti ogni angolo.
@@ -15,7 +16,7 @@ Se hai solo un giorno a disposizione e vuoi scoprire le meraviglie del centro st
 ## L'Itinerario
 
 {: .text-justify}
-Questo percorso a piedi 50 minuti che copre circa 4 km ti porterà tra piazze storiche e strade pittoresche. Seguirai un tragitto che parte da Piazza del Popolo e prosegue lungo via del Corso e via Condotti, per arrivare poi ai simboli della città come Piazza di Spagna, Fontana di Trevi e Piazza Navona. Terminerai a Campo dei Fiori, una piazza ricca di vita e fascino.
+Questo itinerario a piedi di 50 minuti, che copre circa 4 km, ti condurrà attraverso piazze storiche e strade pittoresche. Partirai da Piazza del Popolo e percorrerai via del Corso e via Condotti, fino a raggiungere i simboli della città, come Piazza di Spagna, la Fontana di Trevi e Piazza Navona. Il percorso si conclude a Campo de' Fiori, una piazza vivace e piena di fascino.
 
 {: .text-justify}
 Prepara la macchina fotografica e goditi ogni passo: Roma è pronta a svelarti i suoi tesori!
