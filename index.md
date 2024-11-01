@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/img/Colosseo-Splash.jpg
     title: "2° Itinerario - Colosseo e Foro Romano"
     excerpt: "Esplora la città antica con il **Colosseo** e il **Foro Romano**."
-    url: "#test-link"
+    url: "/roma-colosseo-foro-romano/"
     btn_label: "Vai all'Itinerario"
     btn_class: "btn--primary"
   - image_path: /assets/img/Basilica-San-Pietro-Splash.jpg
