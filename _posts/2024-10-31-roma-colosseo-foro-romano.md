@@ -46,7 +46,7 @@ La statua del Mosè, scolpita in marmo di Carrara, è una delle poche componenti
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/Colosseo.jpg" alt="Colosseo.jpg"/>
-  <figcaption>Foto 3: Colosseo.jpg</figcaption>
+  <figcaption>Foto 3: Colosseo</figcaption>
 </figure>
 
 {: .text-justify}

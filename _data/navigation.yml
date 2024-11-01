@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Info"
-    url: /info/
+  - title: "Chi Sono"
+    url: /chi-sono/
   - title: "Contatti"
     url: /contatti/
   - title: "Blog"
