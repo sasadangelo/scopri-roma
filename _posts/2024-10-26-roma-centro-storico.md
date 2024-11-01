@@ -64,25 +64,19 @@ Posizionandovi vicino all'obelisco con alle spalle la Porta Flaminia vedrete di 
 
 ### Basilica di Santa Maria del Popolo
 
-{: .text-justify}
-Subito dopo aver attraversato la Porta Flaminia, a sinistra si trova la Basilica di Santa Maria del Popolo, un vero gioiello artistico ricco di storia e capolavori.
-
 <figure>
   <img src="{{ site.baseurl }}/assets/img/Basilica-di-Santa-Maria-del-Popolo.jpg" width="450" height="251" alt="Basilica Santa Maria del Popolo"/>
   <figcaption>Foto 3: Basilica di Santa Maria del Popolo</figcaption>
 </figure>
 
 {: .text-justify}
-Costruita nel 1099 per volere di papa Pasquale II, la basilica celebra la liberazione del Santo Sepolcro a opera dei crociati.
+La **Basilica di Santa Maria del Popolo** è un autentico scrigno di opere d'arte rinascimentali e barocche. Nella **Cappella Cerasi**, a sinistra del transetto, si trovano due capolavori di Caravaggio: **la Crocifissione di San Pietro** e la **Conversione di San Paolo**, che affascinano per l’intensità drammatica delle scene. Al centro della cappella, si ammira la pala d’altare di Annibale Carracci, **Assunzione della Vergine**.
 
 {: .text-justify}
-Nella **Cappella Cerasi**, situata a sinistra del transetto, si possono ammirare due opere straordinarie di Caravaggio: la Crocifissione di San Pietro e la Conversione di San Paolo. Al centro si trova la pala d'altare di Annibale Carracci, l'Assunzione della Vergine.
+La celebre **Cappella Chigi** fu progettata da Raffaello su incarico di Agostino Chigi. Qui, il dipinto di Sebastiano del Piombo, **Nascita della Vergine**, arricchisce l’altare, mentre le sculture di Lorenzetto, **Giona che esce dalla balena**, e del Bernini, **Abacuc e l’Angelo**, ornano i lati. La cupola della cappella è decorata con mosaici di Raffaello che raffigurano Dio Padre e i pianeti.
 
 {: .text-justify}
-La **Cappella Chigi**, disegnata da Raffaello su commissione di Agostino Chigi, è la seconda cappella sulla navata sinistra. Qui, sull'altare, si trova la Nascita della Vergine di Sebastiano del Piombo e Salviati. La cappella è arricchita da sculture di grande valore: a sinistra, Giona che esce dalla balena del Lorenzetto; a destra, Abacuc e l'Angelo del Bernini. La decorazione include anche affreschi delle Storie della Genesi e una cupola ornata con mosaici che raffigurano Dio Padre circondato dalle allegorie del Sole e degli altri pianeti.
-
-{: .text-justify}
-Nella prima cappella della navata di destra si trova la Cappella del Presepio, che ospita la Natività con san Girolamo dipinta dal Pinturicchio. Nella volta del Coro, ristrutturata da Bramante all'inizio del XVI secolo, Pinturicchio ha realizzato anche affreschi suggestivi.
+Nella **Cappella del Presepio**, si può ammirare la **Natività con San Girolamo** del Pinturicchio, che affrescò anche la **Volta del Coro**, progettato da Bramante. Le sue opere qui, delicate e vivaci, sono celebri esempi della scuola rinascimentale romana.
 
 ### Museo Leonardo da Vinci
 
@@ -102,13 +96,10 @@ Situato nei sotterranei della basilica, il museo offre una ricostruzione delle m
 </figure>
 
 {: .text-justify}
-Proseguendo verso sinistra dal Museo Leonardo da Vinci, troverai una rampa di scale che ti porterà al Terrazzo del Pincio, situato sulla sommità del colle Pincio all'interno di Villa Borghese. Questa terrazza panoramica funge da belvedere sulla sottostante Piazza del Popolo.
+Proseguendo a sinistra dal Museo Leonardo da Vinci, troverai una scalinata che porta al **Terrazzo del Pincio**, situato in cima al colle Pincio, dentro Villa Borghese. Da questa terrazza panoramica si gode una vista spettacolare su Piazza del Popolo e su tutta Roma.
 
 {: .text-justify}
-Una volta arrivato, potrai godere di un panorama mozzafiato su Roma, ammirando la cupola di San Pietro e Castel Sant'Angelo. È il luogo ideale per trascorrere momenti romantici, scattare foto al tramonto e apprezzare la Città Eterna in ogni suo dettaglio, anche di sera.
-
-{: .text-justify}
-La terrazza è stata progettata da Giuseppe Valadier e la sua costruzione è iniziata nel 1826, insieme alla progettazione della piazza antistante.
+Arrivato in cima, potrai ammirare la cupola di San Pietro e Castel Sant’Angelo. È il luogo perfetto per foto al tramonto o per una passeggiata romantica, apprezzando la bellezza di Roma, anche di sera. Progettato da Giuseppe Valadier nel 1826, il terrazzo è un angolo magico della città.
 
 ### Fontana della Dea Roma
 
@@ -118,13 +109,7 @@ La terrazza è stata progettata da Giuseppe Valadier e la sua costruzione è ini
 </figure>
 
 {: .text-justify}
-Sotto il **Terrazzo del Pincio**, nell'emiciclo orientale della piazza, si trova la **Fontana della Dea Roma**. Progettata dall'architetto Giuseppe Valadier durante il rifacimento della piazza tra il 1814 e il 1823, fu scolpita in marmo e travertino dallo scultore Giovanni Ceccarini.
-
-{: .text-justify}
-La fontana è caratterizzata da un grande gruppo scultoreo che rappresenta la dea Roma armata, affiancata dalle statue sedute dei fiumi Tevere e Aniene. Ai piedi della dea si trova la famosa lupa capitolina che allatta i gemelli, un simbolo delle leggendarie origini della città.
-
-{: .text-justify}
-La vasca semicircolare, realizzata in travertino, raccoglie l'acqua che scorre da un piccolo catino posizionato più in alto. Nel 1997-1998, l'intero complesso monumentale è stato sottoposto a un importante restauro, rinnovando così la sua bellezza.
+Sotto il Terrazzo del Pincio, nell'emiciclo orientale di Piazza del Popolo, si trova la **Fontana della Dea Roma**, progettata da Giuseppe Valadier e scolpita da Giovanni Ceccarini tra il 1814 e il 1823. La fontana raffigura la dea Roma armata, affiancata dai fiumi Tevere e Aniene, con la lupa capitolina che allatta i gemelli ai suoi piedi, simbolo delle origini di Roma. Restaurata nel 1997-1998, la fontana conserva il suo fascino monumentale.
 
 ### Fontana del Nettuno
 
@@ -134,13 +119,7 @@ La vasca semicircolare, realizzata in travertino, raccoglie l'acqua che scorre d
 </figure>
 
 {: .text-justify}
-Di fronte alla **Fontana della Dea Roma** si trova la **Fontana del Nettuno**, anch'essa progettata dall'architetto Giuseppe Valadier durante il rifacimento della piazza tra il 1814 e il 1823 e scolpita in marmo e travertino da Giovanni Ceccarini.
-
-{: .text-justify}
-La fontana presenta una grande vasca semicircolare in travertino, sovrastata da una valva di conchiglia che raccoglie l'acqua da una piccola tazza. L'elemento centrale è una statua di Nettuno con il tridente nella mano destra, affiancata da due statue di tritoni che si appoggiano a delfini.
-
-{: .text-justify}
-Anche questa fontana è stata restaurata insieme all'intero complesso monumentale nel 1997-1998.
+Di fronte alla Fontana della Dea Roma si trova la **Fontana del Nettuno**, anch'essa progettata da Giuseppe Valadier e scolpita da Giovanni Ceccarini tra il 1814 e il 1823. La fontana è caratterizzata da una statua centrale di Nettuno con tridente, affiancato da due tritoni con delfini. L’acqua fluisce da una tazza sopra una grande vasca semicircolare in travertino. Il complesso è stato restaurato nel 1997-1998.
 
 ### Obelisco Flaminio
 
@@ -161,7 +140,7 @@ Al centro della piazza si erge l'obelisco Flaminio, alto quasi 37 metri, risalen
 </figure>
 
 {: .text-justify}
-La Basilica di Santa Maria in Montesanto, situata in Piazza del Popolo, è conosciuta come la Chiesa degli Artisti grazie alla sua storica associazione con la comunità artistica di Roma. Costruita tra il 1662 e il 1676 su progetto dell'architetto Carlo Rainaldi, la chiesa presenta una facciata elegante in stile barocco, caratterizzata da una grande cupola e da due torri gemelle. All'interno, gli affreschi e le opere d'arte, tra cui i dipinti di artisti come il Guercino e il Domenichino, contribuiscono a creare un'atmosfera suggestiva e contemplativa. La basilica è spesso utilizzata per funzioni religiose dedicate a pittori, scultori e musicisti, sottolineando il suo ruolo significativo nella vita culturale della città. La sua posizione privilegiata, di fronte a Santa Maria dei Miracoli, la rende un punto di riferimento sia per i romani che per i visitatori.
+La **Basilica di Santa Maria in Montesanto**, in Piazza del Popolo, è nota come la **Chiesa degli Artisti** per il legame storico con la comunità artistica romana. Progettata da Carlo Rainaldi e costruita tra il 1662 e il 1676, la chiesa ha un’elegante facciata barocca con una grande cupola e due torri gemelle. All’interno, i dipinti del Guercino e del Domenichino arricchiscono l’atmosfera suggestiva. Ospita spesso celebrazioni per artisti, pittori e musicisti, e, situata di fronte a Santa Maria dei Miracoli, è un riferimento per romani e visitatori.
 
 ### Basilica di Santa Maria dei Miracoli
 
@@ -171,7 +150,7 @@ La Basilica di Santa Maria in Montesanto, situata in Piazza del Popolo, è conos
 </figure>
 
 {: .text-justify}
-La Basilica di Santa Maria dei Miracoli, situata in Piazza del Popolo, è una delle due chiese gemelle progettate da Carlo Rainaldi nel XVII secolo. Costruita tra il 1650 e il 1675, la basilica è rinomata per la sua facciata in marmo bianco e per la sua eleganza barocca. All'interno, il magnifico altare centrale ospita un'immagine miracolosa della Vergine Maria, venerata da secoli dai fedeli. Gli affreschi e le decorazioni che adornano la chiesa, realizzati da artisti di fama, creano un'atmosfera di grande spiritualità. La basilica è un importante luogo di culto e di pellegrinaggio, simboleggiando la devozione della città verso la Madonna. La sua posizione, di fronte alla Basilica di Santa Maria in Montesanto, contribuisce a rendere la piazza un centro di attrazione sia per i romani che per i turisti.
+La **Basilica di Santa Maria dei Miracoli**, in Piazza del Popolo, è una delle due chiese gemelle progettate da Carlo Rainaldi nel XVII secolo. Costruita tra il 1650 e il 1675, spicca per la facciata in marmo bianco e il suo stile barocco. L'altare centrale ospita un'immagine miracolosa della Vergine, venerata da secoli. La chiesa è un simbolo di devozione e, insieme a Santa Maria in Montesanto, rende la piazza un luogo iconico per fedeli e visitatori.
 
 ## Via del Corso
 
@@ -181,13 +160,7 @@ La Basilica di Santa Maria dei Miracoli, situata in Piazza del Popolo, è una de
 </figure>
 
 {: .text-justify}
-Dopo aver visitato Piazza del Popolo, dirigiamoci verso **Via del Corso**, una delle strade storiche di Roma che ci porterà fino a **Via dei Condotti**. Lungo il percorso, troveremo eleganti palazzi e famosi negozi. Al civico 18 si trova la **Casa di Goethe**, un museo dedicato al filosofo tedesco. Di fronte, al civico 518, c'è **Palazzo Rondinini**, sede del Circolo degli Scacchi.
-
-{: .text-justify}
-Proseguendo, al civico 45 c'è la **Chiesa di Gesù e Maria**, e al civico 499 si trova la **Chiesa di San Giacomo in Augusta**, con un ospedale annesso chiuso nel 2008. Al civico 437 si può visitare la **Basilica dei Santi Ambrogio e Carlo al Corso**.
-
-{: .text-justify}
-Oltre a arte e cultura, Via del Corso è un’importante via dello shopping, con negozi di brand come Footlocker, Adidas e Levi's.
+Dopo aver visitato Piazza del Popolo, dirigiti lungo **Via del Corso**, una delle storiche strade di Roma. Lungo il percorso troverai eleganti palazzi e negozi famosi. Al civico 18 c'è la **Casa di Goethe**, museo dedicato al filosofo tedesco, e di fronte, a 518, il **Palazzo Rondinini**, sede del Circolo degli Scacchi. Più avanti, al civico 45, si trova la **Chiesa di Gesù e Maria**, mentre al 499 c’è la **Chiesa di San Giacomo in Augusta**. Via del Corso è anche un’importante via dello shopping, con brand come Footlocker, Adidas e Levi’s.
 
 ## Via dei Condotti
 
@@ -210,10 +183,10 @@ Ma Via dei Condotti non è solo moda. Lungo il percorso da **Largo Goldoni** a *
 </figure>
 
 {: .text-justify}
-Piazza di Spagna deve il suo nome al Palazzo di Spagna, sede dell’ambasciata iberica presso il Vaticano. La piazza è stata creata con l’intento di collegare l’ambasciata e la Chiesa di Trinità dei Monti. La __Foto 13__ mostra la piazza vista dall'alto. Seguendo l'itinerario, arriverete da Via Condotti (A), che in Piazza di Spagna si congiunge a Via del Babuino (B), collegando così Piazza di Spagna a Piazza del Popolo.
+**Piazza di Spagna** prende il nome dal Palazzo di Spagna, sede dell’ambasciata spagnola presso il Vaticano. La piazza collega l’ambasciata alla **Chiesa di Trinità dei Monti**, visibile nella Foto 13 dall’alto. Arriverete seguendo Via Condotti (A), che si unisce a Via del Babuino (B), proseguendo fino a Piazza del Popolo.
 
 {: .text-justify}
-Appena arrivati, vi troverete davanti alla **Fontana Barcaccia** (C), anche se il vostro sguardo verrà inevitabilmente attratto dalla celebre **Scalinata** (F). Ai suoi lati si trovano la **Casa del poeta inglese John Keats** (D) e la **Sala da Tè Babington's** (E). Salendo la scalinata, incontrerete l'**Obelisco Sallustiano** (G) e subito dopo la **Chiesa di Trinità dei Monti** (H). A destra della Fontana Barcaccia, su Via Condotti, si trova il **Palazzo di Spagna** (I) e frontalmente ad esso la **Colonna dell'Immacolata Concezione** (L).
+Al centro della piazza vedrete la **Fontana Barcaccia** (C), mentre la famosa **Scalinata** (F) catturerà subito la vostra attenzione. Ai lati, trovate la **Casa di John Keats** (D) e **Babington’s Tea Room** (E). Salendo, incontrerete l’**Obelisco Sallustiano** (G) e poi la **Chiesa di Trinità dei Monti** (H). Sulla destra della Barcaccia, lungo Via Condotti, sorge il **Palazzo di Spagna** (I), di fronte al quale si trova la **Colonna dell’Immacolata Concezione** (L).
 
 ### Fontana della Barcaccia
 
@@ -223,10 +196,7 @@ Appena arrivati, vi troverete davanti alla **Fontana Barcaccia** (C), anche se i
 </figure>
 
 {: .text-justify}
-Al centro della piazza si trova la fontana conosciuta come la "Barcaccia" (1626-29), opera di Pietro Bernini, padre del celebre Gian Lorenzo. La fontana ha la forma di un’imbarcazione con prua e poppa identiche, immersa in una piscina ovale. I bordi delle fiancate sono molto bassi, dando l’impressione che la barca stia per affondare. Sulla parte esterna della prua e della poppa si trovano due grandi stemmi di Urbano VIII, decorati con tre api; ai lati degli stemmi, l’acqua esce da finte bocche di cannoniere.
-
-{: .text-justify}
-Il termine "barcaccia" si riferisce alle imbarcazioni usate sul Tevere nel vicino porto di Ripetta. Altri motivi ispiratori per la fontana potrebbero essere legati alla presenza di una naumachia nella zona, un edificio all’aperto dove si svolgevano giochi navali e battaglie con navi da guerra in miniatura, e alle inondazioni del Tevere, che trascinavano le imbarcazioni fino ai piedi della Trinità de’ Monti.
+Al centro di Piazza di Spagna si trova la **Fontana della Barcaccia** (1626-29), realizzata da Pietro Bernini, padre di Gian Lorenzo. La fontana è a forma di barca con prua e poppa identiche, immersa in una vasca ovale che dà l’impressione di affondare. Sulla prua e poppa compaiono gli stemmi di Urbano VIII, decorati con tre api, da cui l’acqua sgorga da finti cannoni. La "barcaccia" richiama le imbarcazioni del Tevere e potrebbe essere ispirata dalle inondazioni che portavano le barche fino a Trinità dei Monti.
 
 ### La Scalinata
 
@@ -236,10 +206,10 @@ Il termine "barcaccia" si riferisce alle imbarcazioni usate sul Tevere nel vicin
 </figure>
 
 {: .text-justify}
-La monumentale scalinata di 135 gradini, commissionata dal cardinale Pierre Guérin de Tencin, fu inaugurata da papa Benedetto XIII nel 1725 durante il Giubileo. Progettata da Alessandro Specchi e Francesco De Sanctis, la scalinata è caratterizzata da terrazze-giardino che in primavera ed estate si riempiono di fiori.
+La scalinata monumentale di Piazza di Spagna, con i suoi 135 gradini, fu inaugurata durante il Giubileo del 1725, su commissione del cardinale Pierre Guérin de Tencin e progettata da Alessandro Specchi e Francesco De Sanctis. In primavera e in estate, le sue terrazze-giardino sono decorate con fiori.
 
 {: .text-justify}
-All'angolo destro si trova la casa del poeta inglese John Keats, dove visse e morì nel 1821; oggi è un museo dedicato a lui e all'amico Percy Bysshe Shelley, ricco di libri e memorabilia del Romanticismo. All'angolo sinistro, invece, si trova Babington's, una storica sala da tè aperta nel 1893.
+All’angolo destro si trova la casa del poeta inglese John Keats, ora un museo dedicato a lui e a Percy Bysshe Shelley. All’angolo sinistro, troverai Babington’s, una storica sala da tè aperta nel 1893.
 
 ### Obelisco Sallustiano
 
@@ -249,10 +219,7 @@ All'angolo destro si trova la casa del poeta inglese John Keats, dove visse e mo
 </figure>
 
 {: .text-justify}
-L'obelisco, realizzato in granito rosso, si erge su un basamento marmoreo ed è sormontato da un giglio e una croce in bronzo. Misura 13,91 metri di altezza, arrivando a 30,45 metri considerando anche il basamento e la punta. Contrariamente a quanto si possa pensare, questo obelisco non è di origine egizia, ma risale all'epoca imperiale romana, probabilmente tra il II e III secolo, ispirato agli obelischi egizi.
-
-{: .text-justify}
-L'iscrizione in geroglifici fu realizzata solo dopo il trasporto, con errori di scrittura, e originariamente doveva decorare la spina dell’ippodromo privato negli horti Sallustiani. Dopo vari spostamenti, Papa Pio VI decise di collocarlo in cima alla scalinata verso la chiesa della Trinità dei Monti, affidando il progetto all'architetto Giovanni Antinori. I lavori si conclusero nel 1787, nonostante le obiezioni dei frati dell'Ordine dei Minimi.
+L’obelisco in granito rosso, alto 13,91 metri (30,45 metri con il basamento e la punta), si erge su un basamento marmoreo ed è sormontato da un giglio e una croce in bronzo. Sebbene ispirato agli obelischi egizi, è di origine romana, risalente al II-III secolo. L’iscrizione in geroglifici, con errori, fu aggiunta dopo il trasporto. Papa Pio VI lo collocò sulla scalinata della Trinità dei Monti, con il progetto dell’architetto Giovanni Antinori, completato nel 1787.
 
 ### Chiesa di Trinità dei Monti
 
@@ -262,13 +229,7 @@ L'iscrizione in geroglifici fu realizzata solo dopo il trasporto, con errori di 
 </figure>
 
 {: .text-justify}
-La chiesa di Trinità dei Monti, che domina piazza di Spagna con i suoi due campanili, è stata consacrata nel 1594. La sua origine risale all’aiuto spirituale di san Francesco di Paola al re di Francia, Luigi XI. Nel 1494, il figlio Carlo VIII avviò la costruzione di un convento sul Monte Pincio per accogliere i religiosi dell’Ordine dei Minimi, fondato da Francesco di Paola.
-
-{: .text-justify}
-I lavori continuarono per tutto il XVI secolo, rendendo questo luogo «la chiesa romana dei Re di Francia». Nel 1519, anno della canonizzazione di Francesco di Paola, la chiesa e il convento erano già in gran parte completati. Inizialmente costruita in stile gotico con pietre della regione di Narbonne, la chiesa ha una sola navata con sei cappelle su ciascun lato e due nel transetto. Si attribuisce il progetto a Annibale Lippi e Gregorio Caronica.
-
-{: .text-justify}
-Intorno al 1774, Giuseppe Pannini modificò la volta principale, sostituendo le strutture gotiche originali. Un alto cancello in ferro battuto, situato all'ingresso della crociera, era destinato a preservare la vita monastica delle origini.
+La chiesa di Trinità dei Monti, con i suoi due campanili, è stata consacrata nel 1594. La sua costruzione iniziò nel 1494 per volere di Carlo VIII di Francia, per accogliere i religiosi dell’Ordine dei Minimi fondato da san Francesco di Paola. Lavori proseguirono fino al XVI secolo, rendendola la chiesa romana dei Re di Francia. Progettata da Annibale Lippi e Gregorio Caronica, presenta uno stile gotico e una sola navata con sei cappelle su ciascun lato. Giuseppe Pannini modificò la volta principale intorno al 1774, mantenendo un cancello in ferro battuto per la vita monastica.
 
 ### Palazzo di Spagna
 
@@ -278,10 +239,7 @@ Intorno al 1774, Giuseppe Pannini modificò la volta principale, sostituendo le 
 </figure>
 
 {: .text-justify}
-Il Palazzo di Spagna, originariamente appartenente alla nobile famiglia Monaldeschi, fu affittato dagli ambasciatori spagnoli nel 1622 e acquistato dalla corona nel 1654 come residenza permanente. L'architetto Borromini progettò l'aggiunta della scala principale e della hall, successivamente completate da Antonio del Grande, rendendo il palazzo una delle opere architettoniche più belle dell'epoca.
-
-{: .text-justify}
-Durante il XVII e XVIII secolo, il palazzo divenne un elegante ritrovo per eventi mondani, animando la vicina Piazza di Spagna. Oggi, l'ambasciata ospita una rara collezione di arazzi Gobelins del XVII secolo e splendidi arazzi del XVIII secolo nella sala da pranzo. Inoltre, il palazzo è decorato con sculture di Gian Lorenzo Bernini e opere di celebri pittori spagnoli del Museo del Prado.
+Il Palazzo di Spagna, un tempo dei Monaldeschi, fu affittato dagli ambasciatori spagnoli nel 1622 e acquistato dalla corona nel 1654. Progettato da Borromini, il palazzo presenta una scala principale e una hall, completate da Antonio del Grande. Divenne un ritrovo elegante per eventi mondani nei secoli XVII e XVIII, animando Piazza di Spagna. Oggi ospita una collezione di arazzi Gobelins del XVII secolo, opere di Bernini e capolavori di pittori spagnoli del Museo del Prado.
 
 ### La Colonna dell'Immacolata Concezione
 
@@ -301,7 +259,7 @@ La Colonna dell'Immacolata Concezione, eretta nel XIX secolo in Piazza Mignanell
 </figure>
 
 {: .text-justify}
-Lasciamo Piazza Mignanelli e ci dirigiamo verso via di Propaganda Fide, dove si trova il Palazzo di Propaganda Fide, un possedimento extraterritoriale della Santa Sede. Fondato nel 1622 da Papa Gregorio XV per l'istruzione dei missionari cattolici, l'edificio fu progettato da Gian Lorenzo Bernini e ampliato da Francesco Borromini e Alessandro VII Chigi. All'interno, un museo ospita opere inedite, tra cui un Diluvio Universale di Salvator Rosa e un San Giorgio del Guercino.
+Lasciamo Piazza Mignanelli e ci dirigiamo verso via di Propaganda Fide, dove si trova il Palazzo di Propaganda Fide, un’area extraterritoriale della Santa Sede. Fondato nel 1622 da Papa Gregorio XV per formare missionari cattolici, l’edificio è stato progettato da Gian Lorenzo Bernini e ampliato da Francesco Borromini e Alessandro VII Chigi. All’interno, un museo ospita opere interessanti, tra cui un Diluvio Universale di Salvator Rosa e un San Giorgio del Guercino.
 
 ### Basilica di Sant'Andrea delle Fratte
 
@@ -311,7 +269,7 @@ Lasciamo Piazza Mignanelli e ci dirigiamo verso via di Propaganda Fide, dove si 
 </figure>
 
 {: .text-justify}
-La Basilica di Sant'Andrea delle Fratte, situata nel centro di Roma, è nota per il suo design barocco e per ospitare un famoso affresco di Gian Lorenzo Bernini. La chiesa, costruita nel XVII secolo, è dedicata a Sant'Andrea apostolo e presenta una facciata in marmo bianco con una distintiva cupola. All'interno si trovano opere d'arte significative, tra cui dipinti di artisti come Francesco Trevisani e il monumento a San Giuseppe da Copertino.
+La Basilica di Sant'Andrea delle Fratte, situata nel centro di Roma, è famosa per il suo design barocco e per un affresco di Gian Lorenzo Bernini. Costruita nel XVII secolo e dedicata a Sant'Andrea apostolo, presenta una facciata in marmo bianco con una caratteristica cupola. All’interno si possono ammirare opere d'arte importanti, tra cui dipinti di Francesco Trevisani e un monumento dedicato a San Giuseppe da Copertino.
 
 ## Piazza di Trevi
 
