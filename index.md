@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Vai all'Itinerario"
     btn_class: "btn--primary"
   - image_path: /assets/img/Colosseo-Splash.jpg
-    title: "2° Itinerario - Colosseo e Foro Romano"
+    title: "2° Itinerario - Colosseo e Fori Imperiali"
     excerpt: "Esplora la città antica con il **Colosseo** e il **Foro Romano**."
     url: "/roma-colosseo-foro-romano/"
     btn_label: "Vai all'Itinerario"

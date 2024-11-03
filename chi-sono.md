@@ -29,12 +29,17 @@ Durante i miei primi anni a Roma, ricevevo frequentemente visite da familiari e 
 
 ## Cosa Troverai Sul Sito Web
 
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/Itinerario-Centro-Storico.png" alt="Itinerari"/>
+  <figcaption>Foto 3: Itinerari</figcaption>
+</figure>
+
 {: .text-justify}
 Nel sito inizieremo con gli itinerari classici, perfetti per chi non è mai stato a Roma, coprendo i luoghi iconici e le attrazioni più famose. Successivamente, presenteremo itinerari più particolari e alternativi, ideali per chi desidera scoprire Roma oltre le sue attrazioni turistiche. Questi percorsi includeranno luoghi meno conosciuti, angoli pittoreschi e esperienze uniche che arricchiranno il tuo viaggio.
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/Gricia.jpg" alt="Gricia"/>
-  <figcaption>Foto 3: Gricia</figcaption>
+  <figcaption>Foto 4: Gricia</figcaption>
 </figure>
 
 {: .text-justify}

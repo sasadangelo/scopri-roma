@@ -15,8 +15,13 @@ Se hai solo un giorno a disposizione e vuoi scoprire le meraviglie del centro st
 
 ## L'Itinerario
 
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/Itinerario-Centro-Storico.png" alt="Itinerario Centro Storico"/>
+  <figcaption>Foto 3: Itinerario Centro Storico</figcaption>
+</figure>
+
 {: .text-justify}
-Questo itinerario a piedi di 50 minuti, che copre circa 4 km, ti condurrà attraverso piazze storiche e strade pittoresche. Partirai da Piazza del Popolo e percorrerai via del Corso e via Condotti, fino a raggiungere i simboli della città, come Piazza di Spagna, la Fontana di Trevi e Piazza Navona. Il percorso si conclude a Campo de' Fiori, una piazza vivace e piena di fascino.
+Questo itinerario a piedi di 50 minuti, che copre circa 4 km, ti condurrà attraverso piazze storiche e strade pittoresche. Partirai da **Piazza del Popolo** (A) e percorrerai **Via del Corso** (B) e **Via Condotti** (C), fino a raggiungere i simboli della città, come **Piazza di Spagna** (D), la **Fontana di Trevi** (E), **Pantheon** (G) e **Piazza Navona** (I). Il percorso si conclude a **Campo de' Fiori** (J), una piazza vivace e piena di fascino.
 
 {: .text-justify}
 Prepara la macchina fotografica e goditi ogni passo: Roma è pronta a svelarti i suoi tesori!
@@ -340,11 +345,20 @@ All'interno, il Pantheon colpisce per la sua grandezza e armonia, con un diametr
 {: .text-justify}
 Oltre alla sua funzione religiosa, il Pantheon è anche un luogo di sepoltura: qui riposa il celebre pittore Raffaello Sanzio, la cui tomba è situata sul lato destro dell'ingresso, a testimonianza della sua importanza nella storia dell'arte. Questo monumento, che ha ispirato artisti e architetti per secoli, continua a essere una meta imperdibile per chi visita Roma.
 
+### Chiesa di San Luigi dei Francesi
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/Chiesa-San-Luigi-dei-Francesi.jpg" alt="Chiesa San Luigi dei Francesi"/>
+  <figcaption>Foto 27: Chiesa San Luigi dei Francesi</figcaption>
+</figure>
+
+La Chiesa di **San Luigi dei Francesi**, nel cuore di Roma, è celebre per ospitare tre capolavori assoluti di Caravaggio. Situate nella Cappella Contarelli, le tele “La Vocazione di San Matteo”, “San Matteo e l’Angelo”, e “Il Martirio di San Matteo” sono tra le opere più intense e drammatiche dell’artista. Caravaggio ha catturato con maestria la luce e il pathos umano, rendendo questa chiesa una tappa imperdibile per gli amanti dell'arte. Una meta imperdibile per ogni appassionato d’arte! **Nota** che l’ingresso alla chiesa non è dalla porta centrale, sempre chiusa, ma dalla porta laterale a destra.
+
 ## Piazza Navona
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/Piazza-Navona.webp" alt="Piazza Navona"/>
-  <figcaption>Foto 27: Piazza Navona</figcaption>
+  <figcaption>Foto 28: Piazza Navona</figcaption>
 </figure>
 
 {: .text-justify}
@@ -357,7 +371,7 @@ Piazza Navona è famosa per i suoi artisti di strada, che creano un'atmosfera vi
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/Chiesa-SantAgnese-Agone.jpg" alt="Chiesa di Sant Agnese in Agone"/>
-  <figcaption>Foto 28: Chiesa di Sant Agnese in Agone</figcaption>
+  <figcaption>Foto 29: Chiesa di Sant Agnese in Agone</figcaption>
 </figure>
 
 {: .text-justify}
@@ -367,7 +381,7 @@ Dominando un lato della piazza c'è la Chiesa di Santa Agnese in Agone, progetta
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/Fontana-4-Fiumi.jpg" alt="Fontana dei 4 Fiumi"/>
-  <figcaption>Foto 29: Fontana dei 4 Fiumi</figcaption>
+  <figcaption>Foto 30: Fontana dei 4 Fiumi</figcaption>
 </figure>
 
 {: .text-justify}
@@ -377,7 +391,7 @@ Al centro di Piazza Navona si trova la Fontana dei Quattro Fiumi, progettata da 
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/Fontana-Moro.jpeg" alt="Fontana del Moro"/>
-  <figcaption>Foto 30: Fontana del Moro</figcaption>
+  <figcaption>Foto 31: Fontana del Moro</figcaption>
 </figure>
 
 {: .text-justify}
@@ -387,7 +401,7 @@ Situata all'estremità meridionale della piazza, la Fontana del Moro è un’alt
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/Fontana-Nettuno.jpg" alt="Fontana del Nettuno"/>
-  <figcaption>Foto 31: Fontana del Nettuno</figcaption>
+  <figcaption>Foto 32: Fontana del Nettuno</figcaption>
 </figure>
 
 {: .text-justify}
@@ -397,7 +411,7 @@ All'estremità settentrionale della piazza si trova la Fontana del Nettuno, real
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/Campo-dei-Fiori.jpg" alt="Campo dei Fiori"/>
-  <figcaption>Foto 32: Campo dei Fiori</figcaption>
+  <figcaption>Foto 33: Campo dei Fiori</figcaption>
 </figure>
 
 {: .text-justify}
