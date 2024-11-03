@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/img/Basilica-San-Pietro-Splash.jpg
     title: "3° Itinerario - Vaticano e Basilica di San Pietro"
     excerpt: "Esplora la magnifica area del **Vaticano** e i suoi tesori senza tempo."
-    url: "#test-link"
+    url: "/vaticano-basilica-san-pietro/"
     btn_label: "Vai all'Itinerario"
     btn_class: "btn--primary"
 ---
