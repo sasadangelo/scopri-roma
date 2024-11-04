@@ -47,6 +47,12 @@ assets:
 
 locale                   : "it-IT"
 classes: wide
+
+pagination:
+  enabled: true
+  per_page: 7
+  permalink: '/blog/:num/' # URL per le pagine successive
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

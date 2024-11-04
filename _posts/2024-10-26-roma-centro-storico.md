@@ -6,6 +6,7 @@ permalink: /roma-centro-storico/
 categories: Itinerari
 classes: wide
 author_profile: false
+excerpt: "Scopri tre luoghi iconici della Roma papale: Castel Sant'Angelo, la Basilica di San Pietro e i Musei Vaticani. Immergiti nella storia dei Papi e nell'arte rinascimentale, esplorando capolavori unici al mondo in un percorso affascinante tra bellezze storiche e culturali."
 ---
 
 ## Introduzione

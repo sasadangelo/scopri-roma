@@ -1,0 +1,23 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<div class="entries-list">
+  {% for post in site.posts %}
+    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <div>Posted on <b>{{ post.date | date_to_string }}</b></div>
+    <div class="blog-entry-excerpt">
+      <p>{{ post.excerpt }}</p>
+      <a href="{{ site.baseurl }}{{ post.url }}">Continua a Leggere</a>
+    </div>
+    {% endfor %}
+</div>
+
+{% if paginator.next_page %}
+  <nav class="pagination">
+    <a href="{{ paginator.previous_page_path }}" class="pagination__prev">← Previous</a>
+    <a href="{{ paginator.next_page_path }}" class="pagination__next">Next →</a>
+  </nav>
+{% endif %}

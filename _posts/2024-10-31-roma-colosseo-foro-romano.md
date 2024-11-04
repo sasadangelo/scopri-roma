@@ -6,6 +6,7 @@ permalink: /roma-colosseo-foro-romano/
 categories: Itinerari
 classes: wide
 author_profile: false
+excerpt: "Roma incanta con la sua storia millenaria, visibile in monumenti e piazze. Questo itinerario ti guiderà tra i siti più iconici del centro storico, dove arte, cultura e tradizione si fondono in un racconto senza tempo. Preparati a vivere l'incanto e la bellezza della città eterna."
 ---
 
 ## Introduzione
