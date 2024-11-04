@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Roa Tour guida i visitatori alla scoperta di Roma, dai monumenti iconici
   ai tesori nascosti. Trova itinerari unici e consigli per esplorare la
   storia, l'arte e la cultura della Città Eterna.e description.
-baseurl: "/scopri-roma" # the subpath of your site, e.g. /blog
-url: "https://sasadangelo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.scopriroma.it" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
