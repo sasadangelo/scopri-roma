@@ -8,7 +8,6 @@ permalink: /chi-sono/
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/salvatore_d_angelo.jpeg" alt="Salvatore D'Angelo"/>
-  <figcaption>Foto 1: L'autore di Scopri Roma</figcaption>
 </figure>
 
 {: .text-justify}
