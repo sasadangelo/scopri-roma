@@ -31,7 +31,7 @@ export PATH="/usr/local/opt/ruby/bin:$PATH"
 
 3. Esegui:
 ```
-source ~/.zshrc  # o source ~/.bash_profile
+source ~/.bash_profile
 ```
 
 4. Installare bundler:
