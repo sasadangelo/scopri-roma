@@ -2,6 +2,8 @@
 
 **Scopri Roma** è un progetto nato per rendere più semplice e piacevole la visita di Roma per chi desidera esplorarla sia da turista sia da locale. Realizzato con [Jekyll](https://jekyllrb.com/) e il tema [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), il sito propone itinerari curati, consigli su luoghi meno conosciuti, e suggerimenti per vivere la città in modo autentico e stimolante. **Scopri Roma** mira a diventare una guida flessibile e accessibile per tutti, offrendo percorsi tematici che rispondono alle esigenze di un pubblico diversificato.
 
+Vai al sito web di [Scopri Roma](https://www.scopriroma.it)
+
 ## Personas
 
 Il sito è stato progettato tenendo conto di diverse *Personas*, ciascuna con specifici interessi e necessità. Puoi trovare i dettagli delle *Personas* nel documento [Personas di Scopri Roma](docs/personas.md).
