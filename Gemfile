@@ -39,3 +39,4 @@ gem 'csv'
 gem 'base64'
 gem 'jekyll-include-cache'
 gem "minimal-mistakes-jekyll"
+gem "jekyll-sitemap"
