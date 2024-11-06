@@ -48,7 +48,7 @@ In questa sezione troverai le *Personas* che rappresentano i vari tipi di utenti
 - **Interessi:** Monumenti e musei con accesso agevolato, itinerari a piedi non troppo impegnativi, luoghi tranquilli e meno affollati. Sono interessati a conoscere eventuali sconti o promozioni per anziani.
 - **Comportamento:** Cercano informazioni su ingressi ridotti per la terza età, itinerari che includano panchine o aree di sosta, e luoghi facilmente raggiungibili con i mezzi pubblici o taxi.
 
-## 6. Chiara e Marta, le Amiche in Cerca di Divertimento e Avventura
+## 6. Chiara e Marta, le Amiche in Cerca di Divertimento e Avventura
 - **Età:** 25 e 27 anni
 - **Professioni:** Chiara è una grafica freelance, Marta è un’insegnante
 - **Obiettivi:** Divertirsi esplorando Roma, bilanciando momenti di svago con esperienze culturali e gastronomiche.
