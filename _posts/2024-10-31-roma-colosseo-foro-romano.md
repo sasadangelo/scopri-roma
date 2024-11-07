@@ -24,6 +24,9 @@ Roma è una città che non smette mai di stupire, con una storia millenaria che 
 {: .text-justify}
 Questo itinerario a piedi, di meno di 4 km e percorribile in circa 50 minuti senza soste, ti guiderà attraverso alcune delle meraviglie di Roma. Partendo dalla **Chiesa di San Pietro in Vincoli** (A) e dal celebre Mosè di Michelangelo, proseguirai verso il maestoso **Colosseo** (B) e il **Foro Romano** (D). Attraverserai poi i suggestivi **Mercati di Traiano** (E) fino a **Piazza Venezia** (F) e alla **Basilica dell'Aracoeli** (G). Salirai sul **Campidoglio** (H) per ammirare il panorama, poi giù verso il **Teatro Marcello** (I), concludendo infine con la leggendaria **Bocca della Verità** (J). Un percorso straordinario nel cuore della città eterna!
 
+{: .text-center}
+[Segui Itinerario su Google Maps](https://maps.app.goo.gl/K5P3qHvUNFCUS7eQA){: .btn .btn--info}
+
 ## San Pietro in Vincoli
 
 <figure>

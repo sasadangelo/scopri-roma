@@ -27,6 +27,9 @@ Questo itinerario a piedi di 50 minuti, che copre circa 4 km, ti condurrà attra
 {: .text-justify}
 Prepara la macchina fotografica e goditi ogni passo: Roma è pronta a svelarti i suoi tesori!
 
+{: .text-center}
+[Segui Itinerario su Google Maps](https://maps.app.goo.gl/2BuULcPkK3SPQ4tBA){: .btn .btn--info}
+
 ## Piazza del Popolo
 
 {: .text-justify}

@@ -24,6 +24,9 @@ Questo itinerario ti porterà a scoprire tre dei luoghi più iconici e affascina
 {: .text-justify}
 Inizia la visita al **Castel Sant'Angelo** (circa 2 ore) esplorando l'interno e ammirando la vista dalla terrazza. Prosegui a piedi verso la **Basilica di San Pietro**, dove potrai ammirare la piazza, visitare la Pietà, scendere nella cripta e salire alla cupola per una vista mozzafiato. Dopo una pausa pranzo, termina l'itinerario ai **Musei Vaticani** (prenota in anticipo): scegli una visita breve (circa 2 ore) o una più approfondita (fino a 4 ore), concludendo con la Cappella Sistina.
 
+{: .text-center}
+[Segui Itinerario su Google Maps](https://maps.app.goo.gl/feFHsJGVSFxVHXxC8){: .btn .btn--info}
+
 ## Castel Sant'Angelo
 
 <figure>
