@@ -73,6 +73,11 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/sasadangeloo"
 
+exclude:
+  - "travel-guides"
+  - "README.md"
+  - "docs"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
