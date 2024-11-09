@@ -174,12 +174,13 @@
     word-wrap: break-word;
   }
 
+  /*
   a[href^='http://']:after,
   a[href^='https://']:after,
   a[href^='ftp://']:after {
     content: " (" attr(href) ")";
     font-size: 80%;
-  }
+  }*/
 
   abbr[title]:after,
   acronym[title]:after {
@@ -235,6 +236,7 @@
   .masthead,
   .toc,
   .page__share,
+  .page__date,
   .page__related,
   .pagination,
   .ads,
