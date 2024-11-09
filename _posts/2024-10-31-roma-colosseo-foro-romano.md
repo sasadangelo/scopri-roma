@@ -16,10 +16,7 @@ Roma è una città che non smette mai di stupire, con una storia millenaria che 
 
 ## L'Itinerario
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Itinerario-Colosseo-Fori-Imperiali.png" alt="Itinerario Colosseo e Fori Imperiali"/>
-  <figcaption>Foto 1: Itinerario Colosseo e Fori Imperiali</figcaption>
-</figure>
+![Itinerario Colosseo e Fori Imperiali]({{ site.baseurl }}/assets/img/Itinerario-Colosseo-Fori-Imperiali.png){: width="450px" height="auto"}
 
 {: .text-justify}
 Questo itinerario a piedi, di meno di 4 km e percorribile in circa 50 minuti senza soste, ti guiderà attraverso alcune delle meraviglie di Roma. Partendo dalla **Chiesa di San Pietro in Vincoli** (A) e dal celebre Mosè di Michelangelo, proseguirai verso il maestoso **Colosseo** (B) e il **Foro Romano** (D). Attraverserai poi i suggestivi **Mercati di Traiano** (E) fino a **Piazza Venezia** (F) e alla **Basilica dell'Aracoeli** (G). Salirai sul **Campidoglio** (H) per ammirare il panorama, poi giù verso il **Teatro Marcello** (I), concludendo infine con la leggendaria **Bocca della Verità** (J). Un percorso straordinario nel cuore della città eterna!
@@ -29,10 +26,7 @@ Questo itinerario a piedi, di meno di 4 km e percorribile in circa 50 minuti sen
 
 ## San Pietro in Vincoli
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/San-Pietro-in-Vincoli.jpeg" alt="San Pietro in Vincoli"/>
-  <figcaption>Foto 2: San Pietro in Vincoli</figcaption>
-</figure>
+![San Pietro in Vincoli]({{ site.baseurl }}/assets/img/San-Pietro-in-Vincoli.jpeg){: width="450px" height="auto"}
 
 {: .text-justify}
 All’interno della basilica di **San Pietro in Vincoli** si trova il celebre **Mosè di Michelangelo**, uno dei capolavori del Rinascimento, noto per la sua imponenza e intensità espressiva, parte del **Monumento funebre di Papa Giulio II**. Ma la chiesa custodisce anche altri tesori artistici e spirituali.
@@ -41,10 +35,7 @@ Di grande rilievo sono le **Catene di San Pietro**, venerate come reliquia sacra
 
 ### Mosè di Michelangelo
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Mose-Michelangelo.jpg" alt="Mosè di Michelangelo"/>
-  <figcaption>Foto 3: Mosè di Michelangelo</figcaption>
-</figure>
+![Mosè di Michelangelo]({{ site.baseurl }}/assets/img/Mose-Michelangelo.jpg){: width="450px" height="auto"}
 
 {: .text-justify}
 Il **Mosè di Michelangelo** è una delle opere più iconiche del Rinascimento e si trova all’interno della basilica di San Pietro in Vincoli come parte del monumento funebre di Papa Giulio II. Michelangelo iniziò a lavorare al progetto su richiesta di Giulio II, che desiderava una tomba imponente e ricca di statue raffiguranti figure bibliche. Il progetto iniziale era grandioso e prevedeva un monumento monumentale con oltre quaranta statue; tuttavia, a causa di difficoltà finanziarie e dei numerosi impegni di Michelangelo, il piano fu ridimensionato più volte.
@@ -53,10 +44,7 @@ La statua del Mosè, scolpita in marmo di Carrara, è una delle poche componenti
 
 ## Colosseo
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Colosseo.jpg" alt="Colosseo.jpg"/>
-  <figcaption>Foto 4: Colosseo</figcaption>
-</figure>
+![Colosseo]({{ site.baseurl }}/assets/img/Colosseo.jpg){: width="450px" height="auto"}
 
 {: .text-justify}
 Il **Colosseo**, simbolo della Roma antica e delle sue grandiose architetture, è il più grande anfiteatro mai costruito. Eretto sotto l'imperatore Vespasiano e completato da suo figlio Tito nell’80 d.C., poteva accogliere circa 50.000 spettatori, radunati per assistere a combattimenti di gladiatori, cacce agli animali, e rappresentazioni mitologiche. La sua struttura ellittica, con quattro ordini di arcate decorati da colonne doriche, ioniche e corinzie, mostra la maestria ingegneristica romana: il sistema di gradinate permetteva un’efficiente distribuzione del pubblico, con ingressi e uscite che consentivano flussi di persone controllati e rapidi.
@@ -65,20 +53,14 @@ Un elemento innovativo è l’ipogeo, un intricato labirinto di sotterranei e pa
 
 ### Arco di Costantino
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Arco-Costantino.jpg" alt="Arco Costantino"/>
-  <figcaption>Foto 5: Arco di Costantino</figcaption>
-</figure>
+![Arco Costantino]({{ site.baseurl }}/assets/img/Arco-Costantino.jpg){: width="450px" height="auto"}
 
 {: .text-justify}
 L'**Arco di Costantino**, eretto nel 315 d.C., è un trionfale monumento situato tra il Colosseo e il Palatino. Commissionato dall'imperatore Costantino I per commemorare la sua vittoria su Massenzio nella battaglia di Ponte Milvio, l'arco è un esempio di architettura romana tardo-imperiale. Alto 21 metri, l'arco presenta tre fornici e una decorazione ricca di rilievi e sculture, alcune delle quali provengono da monumenti precedenti. Le immagini raffigurano scene di vittoria e simboli di pace, esprimendo l'ideale dell'eroismo e della stabilità dell'Impero. L'Arco di Costantino è oggi un importante simbolo della Roma imperiale e un popolare punto di riferimento turistico.
 
 ### Foro Romano
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Foro-Romano.jpg" alt="Foro Romano"/>
-  <figcaption>Foto 6: Foro Romano</figcaption>
-</figure>
+![Foro Romano]({{ site.baseurl }}/assets/img/Foro-Romano.jpg){: width="450px" height="auto"}
 
 {: .text-justify}
 Il **Foro Romano**, cuore pulsante della vita pubblica nell'antica Roma, è un complesso archeologico che ospitava le principali attività politiche, religiose e commerciali della città. Situato tra il Palatino e il Campidoglio, il foro era un’area vivace, affollata da cittadini e visitatori, ed è costellato di templi, basiliche e monumenti celebrativi.
@@ -89,39 +71,27 @@ Il **Senato**, un tempo fulcro del potere romano, si riuniva in questo spazio, m
 
 ### Via dei Fori Imperiali
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Via-dei-Fori-Imperiali.jpg" alt="Via dei Fori Imperiali"/>
-  <figcaption>Foto 7: Via dei Fori Imperiali</figcaption>
-</figure>
+![Via dei Fori Imperiali]({{ site.baseurl }}/assets/img/Via-dei-Fori-Imperiali.jpg){: width="450px" height="auto"}
 
 Via dei Fori Imperiali è un suggestivo viale pedonale che collega il Colosseo a Piazza Venezia, lungo circa 1 km. Perfetta per una passeggiata, la strada offre viste spettacolari sui Fori Romani e sugli antichi resti della Roma imperiale. Nei giorni festivi, quando viene chiusa al traffico, Via dei Fori Imperiali si anima con artisti di strada, musicisti e pittori, regalando un’esperienza vivace e coinvolgente nel cuore storico della città eterna.
 
 ## Piazza Venezia
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Piazza-Venezia-vista-alto.jpeg" alt="Piazza Venezia vista dall'alto"/>
-  <figcaption>Foto 8: Piazza Venezia vista dall'alto</figcaption>
-</figure>
+![Piazza Venezia vista dall'alto]({{ site.baseurl }}/assets/img/Piazza-Venezia-vista-alto.jpeg){: width="450px" height="auto"}
 
 {: .text-justify}
 **Piazza Venezia** è uno dei centri nevralgici di Roma, un crocevia di storia e architettura. Dominata dall'imponente **Altare della Patria**, dedicato a Vittorio Emanuele II, offre una vista spettacolare sulla città. Nella piazza si trova anche il **Palazzo Venezia**, un antico palazzo rinascimentale che ospitò i dogi veneziani e oggi è sede di un museo. Sulla destra, il **Campidoglio**, progettato da Michelangelo, è il simbolo del potere romano, con i suoi musei che custodiscono opere d'arte inestimabili. Infine, i **Mercati di Traiano**, considerati il primo centro commerciale di Roma, sono un complesso architettonico affascinante che testimonia la vitalità commerciale dell'antica città.
 
 ### Mercati di Traiano
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Mercati-Traiano.jpg" alt="Mercati di Traiano"/>
-  <figcaption>Foto 9: Mercati di Traiano</figcaption>
-</figure>
+![Mercati di Traiano]({{ site.baseurl }}/assets/img/Mercati-Traiano.jpg){: width="450px" height="auto"}
 
 {: .text-justify}
 I **Mercati di Traiano**, costruiti tra il 100 e il 110 d.C. dall'imperatore Traiano, sono considerati il primo centro commerciale coperto di Roma. Situati su più livelli, ospitavano negozi, botteghe e uffici amministrativi, rendendoli un fulcro di vita economica e sociale. L'architettura innovativa includeva grandi arcate e magazzini, mentre la facciata in mattoni conferisce un aspetto imponente. Oggi, i mercati sono parte di un complesso archeologico che offre un'interessante panoramica sulla vita quotidiana nell'antica Roma.
 
 ### Altare della Patria e Museo del Risorgimento
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Altare-della-Patria.webp" alt="Altare della Patria"/>
-  <figcaption>Foto 10: Altare della Patria</figcaption>
-</figure>
+![Altare della Patria]({{ site.baseurl }}/assets/img/Altare-della-Patria.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 L'**Altare della Patria**, noto anche come **Vittoriano**, è uno dei monumenti più emblematici di Roma, situato in Piazza Venezia. Inaugurato nel 1911 per celebrare il centenario dell'Unità d'Italia, l'Altare è dedicato a Vittorio Emanuele II, il primo re d'Italia. La sua maestosa struttura in marmo bianco presenta una serie di scalinate, colonne e statue, culminando in una grande quadriga, simbolo di libertà e giustizia.
@@ -130,10 +100,7 @@ All'interno del monumento si trova il **Museo del Risorgimento**, che offre un'a
 
 ### Santa Maria Aracoeli
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Santa-Maria-Aracoeli.jpg" alt="Santa Maria Aracoeli"/>
-  <figcaption>Foto 11: Santa Maria Aracoeli</figcaption>
-</figure>
+![Santa Maria Aracoeli]({{ site.baseurl }}/assets/img/Santa-Maria-Aracoeli.jpg){: width="450px" height="auto"}
 
 {: .text-justify}
 Santa Maria in Aracoeli è una chiesa storica di Roma situata sulla sommità del Campidoglio. La sua imponente scalinata, composta da 124 gradini, invita i visitatori a salire
@@ -142,10 +109,7 @@ non solo un'importante meta spirituale, ma anche un punto ideale per apprezzare 
 
 ### Campidoglio
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Campidoglio.jpg" alt="Campidoglio"/>
-  <figcaption>Foto 12: Campidoglio</figcaption>
-</figure>
+![Campidoglio]({{ site.baseurl }}/assets/img/Campidoglio.jpg){: width="450px" height="auto"}
 
 {: .text-justify}
 Il **Campidoglio**, una delle sette colline di Roma, è un importante centro politico e culturale, nonché un capolavoro dell'architettura rinascimentale, progettato principalmente da Michelangelo Buonarroti nel XVI secolo. La piazza principale, **Piazza del Campidoglio**, è caratterizzata da una pavimentazione unica, composta da un disegno a forma di stella, che riflette la grandiosità del progetto michelangiolesco.
@@ -158,20 +122,14 @@ Dalla terrazza dei musei si apre una vista spettacolare sul Foro Romano, permett
 
 ## Teatro Marcello
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Teatro-di-Marcello.jpg" alt="Teatro di Marcello"/>
-  <figcaption>Foto 13: Teatro di Marcello</figcaption>
-</figure>
+![Teatro di Marcello]({{ site.baseurl }}/assets/img/Teatro-di-Marcello.jpg){: width="450px" height="auto"}
 
 {: .text-justify}
 Il **Teatro Marcello** è uno dei teatri romani meglio conservati, costruito tra il 22 e il 13 a.C. per volere di Augusto e dedicato al nipote Marco Claudio Marcello. Con una capienza di circa 20.000 spettatori, il teatro presentava un'imponente facciata a tre ordini di arcate, riflettendo l'architettura romana dell'epoca. Dopo la caduta dell'Impero Romano, il teatro fu in parte smantellato e trasformato in un palazzo fortificato, il **Palazzo Orsini**. Oggi, il Teatro Marcello rappresenta un importante simbolo della storia e della cultura romana, offrendo ai visitatori uno sguardo sulla magnificenza dell'antichità.
 
 ## Bocca della Verità
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Bocca-Verita.jpg" alt="Bocca della Verità"/>
-  <figcaption>Foto 14: Bocca della Verità</figcaption>
-</figure>
+![Bocca della Verità]({{ site.baseurl }}/assets/img/Bocca-Verita.jpg){: width="450px" height="auto"}
 
 {: .text-justify}
 La **Bocca della Verità** è una famosa maschera di marmo situata nel portico della chiesa di **Santa Maria in Cosmedin** a Roma. Rappresenta una divinità fluviale e risale al I secolo d.C. La leggenda narra che chi dice il falso mentre introduce la mano nella bocca della maschera rischia di perderla. Questo curioso artefatto è diventato un simbolo di verità e giustizia, attirando visitatori da tutto il mondo. La Bocca della Verità è anche famosa per la sua apparizione nel film "Vacanze Romane", in cui Audrey Hepburn e Gregory Peck immortalano il rito di mettervi la mano, rendendola un'icona della cultura pop.
