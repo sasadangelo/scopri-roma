@@ -122,7 +122,7 @@ storico.
 
 ### Il Presbiterio e il Baldacchino del Bernini
 
-![Il Presbiterio e il Baldacchino del Bernini]({{ site.baseurl }}/assets/img/Presbiterio-Baldacchino-Bernini.jpg){: width="450px" height="auto"}
+![Il Presbiterio e il Baldacchino del Bernini]({{ site.baseurl }}/assets/img/Presbiterio-Baldacchino-Bernini.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 Al centro della basilica si trova il baldacchino in bronzo realizzato dal Bernini, che copre l'altare maggiore. È un'opera imponente, simbolo
@@ -144,7 +144,7 @@ Affrescate da Raffaello e dai suoi allievi, queste stanze rappresentano uno degl
 
 ### La Galleria delle Carte Geografiche
 
-![La Galleria delle Carte Geografiche]({{ site.baseurl }}/assets/img/Galleria-Carte-Geografiche.jpeg){: width="450px" height="auto"}
+![La Galleria delle Carte Geografiche]({{ site.baseurl }}/assets/img/Galleria-Carte-Geografiche.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 Questa galleria è decorata con mappe dettagliate dell'Italia e delle regioni circostanti, creando una sorta di viaggio visivo lungo la storia
