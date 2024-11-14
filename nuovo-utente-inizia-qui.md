@@ -1,32 +1,27 @@
 ---
 layout: single
 title: Nuovo Utente? Inizia Qui
+classes: wide
 permalink: /nuovo-utente-inizia-qui/
 ---
 
 ## Che cos'è Scopri Roma?
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/scopri-roma-logo.webp" alt="Scopri Roma"/>
-</figure>
+![Scopri Roma]({{ site.baseurl }}/assets/img/scopri-roma-logo.webp)
 
 {: .text-justify}
 Scopri Roma è una guida pensata per chi vuole esplorare la città al meglio, che tu sia un visitatore alle prime armi o un esploratore in cerca di luoghi nascosti. Offriamo itinerari pensati per risparmiare tempo ed energia, con percorsi classici verso monumenti iconici e suggerimenti per scoprire angoli affascinanti lontani dai percorsi turistici più battuti. Scopri Roma ti aiuterà a vivere la Città Eterna in modo autentico.
 
 ## Chi Sono? Perché ho creato questo sito web?
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/salvatore_d_angelo.jpeg" alt="Salvatore D'Angelo"/>
-</figure>
+![Salvatore D'Angelo]({{ site.baseurl }}/assets/img/salvatore_d_angelo.jpeg)
 
 {: .text-justify}
 Mi chiamo Salvatore e, pur venendo dalla provincia di Salerno, vivo a Roma da ormai 25 anni. Nei miei primi dieci anni in città ho dedicato tempo ed energia a esplorare ogni angolo di Roma, dai suoi monumenti più celebri ai quartieri meno noti. Conosco bene la città e le sue sfumature, e ho creato questo sito per condividere le mie conoscenze e ispirare chiunque voglia vivere Roma come un vero conoscitore, godendosi ogni tappa del viaggio.
 
 ## Gli Itinerari
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Itinerario-Centro-Storico.png" alt="Itinerario Centro Storico"/>
-</figure>
+![Itinerario Centro Storico]({{ site.baseurl }}/assets/img/Itinerario-Centro-Storico.png)
 
 {: .text-justify}
 Per chi visita Roma per la prima volta o desidera concentrarsi sui suoi monumenti e luoghi iconici, **Scopri Roma** offre una serie di itinerari progettati per esplorare la città in modo efficiente e piacevole. Ogni itinerario è pensato per essere completato in un giorno. Se hai a disposizione più giorni, puoi facilmente combinare gli itinerari, scoprendo ogni giorno una nuova area della città.

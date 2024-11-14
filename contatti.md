@@ -1,14 +1,11 @@
 ---
-title: "Contatti"
-layout: splash
+title: "Contattami"
+layout: single
+classes: wide
 permalink: /contatti/
 ---
 
-# Contattami
-
-<figure>
-  <img src="{{ site.baseurl }}/assets/img/Contattami.webp" alt="Contattami"/>
-</figure>
+![Contattami]({{ site.baseurl }}/assets/img/Contattami.webp)
 
 Se desideri contattarmi, scrivi il tuo messaggio utilizzando il seguente modulo di contatto. Ricorda di compilare i campi obbligatori: il tuo nome, la tua email e l’oggetto, che mi aiuterà a comprendere subito l’argomento del messaggio.
 

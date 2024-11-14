@@ -5,7 +5,7 @@
 
 # Get the absolute path of the directory where the script is located
 SCRIPT_DIR=$(dirname "$(realpath "$0")")
-GUIDE_NAMES=("guida-centro-storico")
+GUIDE_NAMES=("guida-centro-storico" "guida-colosseo-fori-imperiali" "guida-vaticano-basilica-san-pietro")
 DOWNLOAD_DIR="${SCRIPT_DIR}/../download"
 
 # Check if pdftk is installed
