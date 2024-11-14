@@ -16,7 +16,7 @@ Questo itinerario ti porterà a scoprire tre dei luoghi più iconici e affascina
 
 ## L'Itinerario
 
-![Itinerario Vaticano e Basilica San Pietro]({{ site.baseurl }}/assets/img/Itinerario-Vaticano-Basilica-San-Pietro.png){: width="450px" height="auto"}
+![Itinerario Vaticano e Basilica San Pietro]({{ site.baseurl }}/assets/img/Itinerario-Vaticano-Basilica-San-Pietro.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 Inizia la visita al **Castel Sant'Angelo** (circa 2 ore) esplorando l'interno e ammirando la vista dalla terrazza. Prosegui a piedi verso la **Basilica di San Pietro**, dove potrai ammirare la piazza, visitare la Pietà, scendere nella cripta e salire alla cupola per una vista mozzafiato. Dopo una pausa pranzo, termina l'itinerario ai **Musei Vaticani** (prenota in anticipo): scegli una visita breve (circa 2 ore) o una più approfondita (fino a 4 ore), concludendo con la Cappella Sistina.
@@ -26,7 +26,7 @@ Inizia la visita al **Castel Sant'Angelo** (circa 2 ore) esplorando l'interno e 
 
 ## Castel Sant'Angelo
 
-![Castel Sant'Angelo]({{ site.baseurl }}/assets/img/Castel-Sant-Angelo.jpg){: width="450px" height="auto"}
+![Castel Sant'Angelo]({{ site.baseurl }}/assets/img/Castel-Sant-Angelo.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 **Castel Sant'Angelo**, inizialmente concepito come mausoleo per l'imperatore Adriano, è stato trasformato nel corso dei secoli in una fortezza, una
@@ -35,7 +35,7 @@ città.
 
 ### Il Cortile dell'Angelo
 
-![Cortile dell'Angelo]({{ site.baseurl }}/assets/img/Cortile-Sant-Angelo.jpg){: width="450px" height="auto"}
+![Cortile dell'Angelo]({{ site.baseurl }}/assets/img/Cortile-Sant-Angelo.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 Uno dei primi ambienti che si incontrano, così chiamato per la presenza di una statua dell'Arcangelo Michele, simbolo del castello. È il cuore della
@@ -50,7 +50,7 @@ In passato, il castello fungeva da prigione per nemici dello Stato e dissidenti 
 
 ### Le Stanze di Paolo III
 
-!["Sala Paolina]({{ site.baseurl }}/assets/img/Sala-Paolina.jpg){: width="450px" height="auto"}
+!["Sala Paolina]({{ site.baseurl }}/assets/img/Sala-Paolina.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 Le stanze papali di Castel Sant'Angelo, affrescate e decorate durante il Rinascimento, incarnano l'opulenza e l'ambizione artistica del periodo,
@@ -72,7 +72,7 @@ che si stagliano all'orizzonte.
 
 ## Basilica di San Pietro
 
-![Basilica di San Pietro]({{ site.baseurl }}/assets/img/Basilica-di-San-Pietro.jpg){: width="450px" height="auto"}
+![Basilica di San Pietro]({{ site.baseurl }}/assets/img/Basilica-di-San-Pietro.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 La Basilica di San Pietro è il cuore del Vaticano e della cristianità. Oltre alla magnificenza della chiesa, l'intero complesso comprende la maestosa
@@ -90,7 +90,7 @@ monumentale, enfatizzando l'ingresso al cuore del cattolicesimo.
 
 ### Piazza San Pietro
 
-![Piazza San Pietro]({{ site.baseurl }}/assets/img/Piazza-San-Pietro.jpg){: width="450px" height="auto"}
+![Piazza San Pietro]({{ site.baseurl }}/assets/img/Piazza-San-Pietro.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 La piazza è circondata da un colonnato che crea un effetto abbraccio. I cosiddetti "fuochi" del Bernini sono dei punti particolari della piazza,
@@ -99,7 +99,7 @@ straordinario.
 
 ### La Pietà di Michelangelo
 
-![La Pietà di Michelangelo]({{ site.baseurl }}/assets/img/Pieta-Michelangelo.jpg){: width="450px" height="auto"}
+![La Pietà di Michelangelo]({{ site.baseurl }}/assets/img/Pieta-Michelangelo.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 Situata subito sulla destra, questa scultura rappresenta uno dei capolavori assoluti di Michelangelo e della scultura rinascimentale. È considerata un'opera di struggente bellezza e raffinatezza.
@@ -114,7 +114,7 @@ abbraccia tutto il Vaticano e la città di Roma.
 
 ### Le Tombe dei Papi
 
-![La Tomba di San Pietro]({{ site.baseurl }}/assets/img/Tomba-San-Pietro.jpeg){: width="450px" height="auto"}
+![La Tomba di San Pietro]({{ site.baseurl }}/assets/img/Tomba-San-Pietro.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 Sotto la basilica si trovano le tombe di molti Papi, incluso San Pietro. È un luogo di raccoglimento e preghiera, ma anche di grande interesse
@@ -130,14 +130,14 @@ dell'arte barocca e della magnificenza della Chiesa.
 
 ## Musei Vaticani
 
-![Musei Vaticani]({{ site.baseurl }}/assets/img/Musei-Vaticani.jpg){: width="450px" height="auto"}
+![Musei Vaticani]({{ site.baseurl }}/assets/img/Musei-Vaticani.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 I Musei Vaticani ospitano una delle collezioni d'arte più importanti del mondo, con opere che spaziano dall'antichità all'epoca moderna. Il percorso museale offre due opzioni principali: una visita breve, che include le principali sale e la Cappella Sistina, e una visita lunga, che permette di esplorare più a fondo la collezione.
 
 ### Le Stanze di Raffaello
 
-![Le Stanze di Raffaello]({{ site.baseurl }}/assets/img/Stanze-Raffaello.jpg){: width="450px" height="auto"}
+![Le Stanze di Raffaello]({{ site.baseurl }}/assets/img/Stanze-Raffaello.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 Affrescate da Raffaello e dai suoi allievi, queste stanze rappresentano uno degli esempi più alti dell'arte rinascimentale.
@@ -152,7 +152,7 @@ geografica e politica.
 
 ### La Sala Rotonda e il Cortile della Pigna
 
-![La Sala Rotonda]({{ site.baseurl }}/assets/img/Sala-Rotonda.jpg){: width="450px" height="auto"}
+![La Sala Rotonda]({{ site.baseurl }}/assets/img/Sala-Rotonda.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 La Sala Rotonda, con le sue statue colossali, e il Cortile della Pigna, decorato da una grande scultura a forma di pigna, sono due delle tappe più
@@ -160,7 +160,7 @@ suggestive del percorso.
 
 ### La Cappella Sistina
 
-![Cappella Sistina]({{ site.baseurl }}/assets/img/Cappella-Sistina.jpg){: width="450px" height="auto"}
+![Cappella Sistina]({{ site.baseurl }}/assets/img/Cappella-Sistina.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 La **Cappella Sistina** è la meta principale per molti visitatori. Qui si possono ammirare i famosi affreschi di Michelangelo, tra cui il **Giudizio

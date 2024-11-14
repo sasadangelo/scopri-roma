@@ -70,6 +70,8 @@ exclude:
   - "travel-guides"
   - "README.md"
   - "docs"
+  - "tools"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

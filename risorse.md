@@ -4,19 +4,19 @@ layout: single
 permalink: /risorse/
 classes: wide
 feature_row:
-  - image_path: /assets/img/guida-centro-storico-splash.jpg
+  - image_path: /assets/img/guida-centro-storico-splash.webp
     title: "Centro Storico"
     excerpt: "Esplora il **centro storico** di Roma: arte, storia e fascino eterno."
     url: "/download/guida-centro-storico.pdf"
     btn_label: "Scarica Guida"
     btn_class: "btn--primary"
-  - image_path: /assets/img/guida-colosseo-fori-imperiali-splash.jpg
+  - image_path: /assets/img/guida-colosseo-fori-imperiali-splash.webp
     title: "Colosseo e Fori Imperiali"
     excerpt: "Esplora la città antica con il **Colosseo** e il **Foro Romano**."
     url: "/download/guida-colosseo-fori-imperiali.pdf"
     btn_label: "Scarica Guida"
     btn_class: "btn--primary"
-  - image_path: /assets/img/guida-vaticano-basilica-san-pietro-splash.jpg
+  - image_path: /assets/img/guida-vaticano-basilica-san-pietro-splash.webp
     title: "Vaticano e Basilica di San Pietro"
     excerpt: "Esplora la magnifica area del **Vaticano** e i suoi tesori senza tempo."
     url: "/download/guida-vaticano-basilica-san-pietro.pdf"
