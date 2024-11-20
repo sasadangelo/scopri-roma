@@ -30,8 +30,10 @@ Per chi visita Roma per la prima volta o desidera concentrarsi sui suoi monument
 
 {: .text-justify}
 * **Centro Storico**: Un itinerario che ti guida tra le piazze e le fontane più famose di Roma, dalle meraviglie di Piazza Navona alla Fontana di Trevi, attraversando anche il Pantheon e Piazza di Spagna.
+
 {: .text-justify}
 * **Colosseo e Fori Imperiali**: Un viaggio nel cuore dell'antica Roma, tra l'imponente Colosseo, i Fori Imperiali, e il Palatino, per immergersi nelle storie e nelle leggende della città eterna.
+
 {: .text-justify}
 * **Vaticano e Basilica di San Pietro**: Un percorso che ti conduce attraverso l'arte e la spiritualità del Vaticano, includendo i Musei Vaticani, la Cappella Sistina e la magnifica Basilica di San Pietro.
 

@@ -26,10 +26,12 @@ feature_row:
 
 ## Perché una Pagina delle Risorse?
 
+{: .text-justify}
 La nostra pagina delle risorse è pensata per offrire ai visitatori un luogo dedicato a tutto ciò di cui hanno bisogno per esplorare Roma in modo consapevole e arricchente. Qui potete trovare guide, consigli pratici, e materiali utili, curati per aiutarvi a vivere appieno la città eterna. Crediamo che una raccolta di risorse ben organizzata e facilmente accessibile renda più semplice la scoperta delle bellezze, della storia e della cultura di Roma.
 
 ## Le Nostre Guide
 
+{: .text-justify}
 Nella sezione delle guide, mettiamo a disposizione PDF dettagliati per accompagnarvi lungo i nostri tre itinerari principali. Ogni guida è pensata per portarvi alla scoperta dei luoghi simbolo di Roma, fornendo informazioni essenziali, suggerimenti e curiosità per rendere la vostra visita ancora più memorabile.
 
 {% include feature_row id="intro" type="center" %}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Cose da Vedere a Roma in 1 Giorno - Vaticano e Basilica di San Pietro"
-date:   2024-10-31
+date:   2024-11-03
 permalink: /vaticano-basilica-san-pietro/
 categories: Itinerari
 classes: wide

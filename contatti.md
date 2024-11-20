@@ -7,8 +7,10 @@ permalink: /contatti/
 
 ![Contattami]({{ site.baseurl }}/assets/img/Contattami.webp)
 
+{: .text-justify}
 Se desideri contattarmi, scrivi il tuo messaggio utilizzando il seguente modulo di contatto. Ricorda di compilare i campi obbligatori: il tuo nome, la tua email e l’oggetto, che mi aiuterà a comprendere subito l’argomento del messaggio.
 
+{: .text-justify}
 Tieni presente che generalmente leggo tutti i messaggi che arrivano tramite questo modulo. Se possibile, cerco di rispondere entro 24 ore. Tuttavia, potrebbe capitare che, per motivi personali, impegni o altre ragioni, la mia risposta arrivi con un po’ di ritardo. In tali casi, ti chiedo solo un po’ di pazienza perché, nei limiti delle mie possibilità, cerco sempre di rispondere a tutti.
 
 <!-- modify this form HTML and place wherever you want your form -->
