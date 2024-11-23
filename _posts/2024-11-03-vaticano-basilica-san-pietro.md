@@ -6,7 +6,7 @@ permalink: /vaticano-basilica-san-pietro/
 categories: Itinerari
 classes: wide
 author_profile: false
-excerpt: "Scopri tre luoghi iconici della Roma papale: Castel Sant'Angelo, la Basilica di San Pietro e i Musei Vaticani, custodi d'arte e storia. Immergiti nella storia dei Papi e nell'arte rinascimentale, esplorando un percorso che ti porterà tra capolavori unici al mondo e antiche meraviglie romane."
+excerpt: "Esplora il Vaticano con la Basilica di San Pietro, Castel Sant'Angelo e i Musei Vaticani. Un itinerario che ti immergerà nella storia dei Papi e nei capolavori dell'arte rinascimentale, tra meraviglie uniche al mondo."
 ---
 
 ## Introduzione: Un Giorno nel Cuore di Roma
