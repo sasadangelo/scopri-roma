@@ -25,7 +25,7 @@ Questo itinerario a piedi di 50 minuti, che copre circa 4 km, ti condurrà attra
 Prepara la macchina fotografica e goditi ogni passo: Roma è pronta a svelarti i suoi tesori!
 
 {: .text-center}
-[Segui Itinerario su Google Maps](https://maps.app.goo.gl/2BuULcPkK3SPQ4tBA){: .btn .btn--info}
+[Segui Itinerario su Google Maps](https://maps.app.goo.gl/2BuULcPkK3SPQ4tBA){: .btn .btn--info target="_blank"}
 
 ## Piazza del Popolo: Il Punto di Partenza Perfetto
 
@@ -152,14 +152,14 @@ Ma Via dei Condotti non è solo moda. Lungo il percorso da **Largo Goldoni** a *
 {: .text-justify}
 Al centro della piazza vedrete la **Fontana Barcaccia** (C), mentre la famosa **Scalinata** (F) catturerà subito la vostra attenzione. Ai lati, trovate la **Casa di John Keats** (D) e **Babington’s Tea Room** (E). Salendo, incontrerete l’**Obelisco Sallustiano** (G) e poi la **Chiesa di Trinità dei Monti** (H). Sulla destra della Barcaccia, lungo Via Condotti, sorge il **Palazzo di Spagna** (I), di fronte al quale si trova la **Colonna dell’Immacolata Concezione** (L).
 
-### Fontana della Barcaccia
+### Fontana della Barcaccia: Un Capolavoro Barocco in Piazza di Spagna
 
 ![Fontana della Barcaccia]({{ site.baseurl }}/assets/img/Fontana-della-Barcaccia.webp){: width="450px" height="300px"}
 
 {: .text-justify}
 Al centro di Piazza di Spagna si trova la **Fontana della Barcaccia** (1626-29), realizzata da Pietro Bernini, padre di Gian Lorenzo. La fontana è a forma di barca con prua e poppa identiche, immersa in una vasca ovale che dà l’impressione di affondare. Sulla prua e poppa compaiono gli stemmi di Urbano VIII, decorati con tre api, da cui l’acqua sgorga da finti cannoni. La "barcaccia" richiama le imbarcazioni del Tevere e potrebbe essere ispirata dalle inondazioni che portavano le barche fino a Trinità dei Monti.
 
-### La Scalinata
+### Scopri la Maestosità della Scalinata di Trinità dei Monti
 
 ![Scalinata Piazza di Spagna]({{ site.baseurl }}/assets/img/Scalinata-Piazza-di-Spagna.webp){: width="450px" height="270px"}
 
@@ -169,42 +169,42 @@ La scalinata monumentale di Piazza di Spagna, con i suoi 135 gradini, fu inaugur
 {: .text-justify}
 All’angolo destro si trova la casa del poeta inglese John Keats, ora un museo dedicato a lui e a Percy Bysshe Shelley. All’angolo sinistro, troverai Babington’s, una storica sala da tè aperta nel 1893.
 
-### Obelisco Sallustiano
+### L'Imponente Obelisco Sallustiano: Un Testimone della Storia
 
 ![Obelisco Sallustiano]({{ site.baseurl }}/assets/img/Obelisco_Sallustiano.webp){: width="450px" height="393px"}
 
 {: .text-justify}
 L’obelisco in granito rosso, alto 13,91 metri (30,45 metri con il basamento e la punta), si erge su un basamento marmoreo ed è sormontato da un giglio e una croce in bronzo. Sebbene ispirato agli obelischi egizi, è di origine romana, risalente al II-III secolo. L’iscrizione in geroglifici, con errori, fu aggiunta dopo il trasporto. Papa Pio VI lo collocò sulla scalinata della Trinità dei Monti, con il progetto dell’architetto Giovanni Antinori, completato nel 1787.
 
-### Chiesa di Trinità dei Monti
+### Trinità dei Monti: La Chiesa che Domina Roma
 
 ![Chiesa Trinita dei Monti]({{ site.baseurl }}/assets/img/Chiesa_Trinita_dei_Monti.webp){: width="450px" height="284px"}
 
 {: .text-justify}
 La chiesa di Trinità dei Monti, con i suoi due campanili, è stata consacrata nel 1594. La sua costruzione iniziò nel 1494 per volere di Carlo VIII di Francia, per accogliere i religiosi dell’Ordine dei Minimi fondato da san Francesco di Paola. Lavori proseguirono fino al XVI secolo, rendendola la chiesa romana dei Re di Francia. Progettata da Annibale Lippi e Gregorio Caronica, presenta uno stile gotico e una sola navata con sei cappelle su ciascun lato. Giuseppe Pannini modificò la volta principale intorno al 1774, mantenendo un cancello in ferro battuto per la vita monastica.
 
-### Palazzo di Spagna
+### Palazzo di Spagna: Un Simbolo di Eleganza e Storia
 
 ![Palazzo di Spagna]({{ site.baseurl }}/assets/img/Palazzo-di-Spagna.webp){: width="450px" height="338px"}
 
 {: .text-justify}
 Il Palazzo di Spagna, un tempo dei Monaldeschi, fu affittato dagli ambasciatori spagnoli nel 1622 e acquistato dalla corona nel 1654. Progettato da Borromini, il palazzo presenta una scala principale e una hall, completate da Antonio del Grande. Divenne un ritrovo elegante per eventi mondani nei secoli XVII e XVIII, animando Piazza di Spagna. Oggi ospita una collezione di arazzi Gobelins del XVII secolo, opere di Bernini e capolavori di pittori spagnoli del Museo del Prado.
 
-### La Colonna dell'Immacolata Concezione
+### La Colonna dell'Immacolata Concezione: Un Capolavoro Barocco
 
 ![Colonna Immacolata Concezione]({{ site.baseurl }}/assets/img/Colonna-Immacolata-Concezione.webp){: width="450px" height="323px"}
 
 {: .text-justify}
 La Colonna dell'Immacolata Concezione, eretta nel XIX secolo in Piazza Mignanelli, è una colonna corinzia in marmo Cipollino risalente all'antica Roma. Papa Pio IX la dedicò all'Immacolata Concezione, commissionando a Luigi Poletti una base di marmo quadrata e quattro statue di Mosè, David, Isaia ed Ezechiele. Alta 11,81 metri, la colonna è sormontata da una statua in bronzo della Vergine Maria, che calpesta un serpente, simbolo del peccato originale; ogni anno il Papa benedice il monumento l'8 dicembre.
 
-### Palazzo di Propaganda Fide
+### Palazzo di Propaganda Fide: Un Esempio di Architettura Monumentale
 
 ![Palazzo Propaganda Fide]({{ site.baseurl }}/assets/img/Palazzo-Propaganda-Fide.webp){: width="450px" height="338px"}
 
 {: .text-justify}
 Lasciamo Piazza Mignanelli e ci dirigiamo verso via di Propaganda Fide, dove si trova il Palazzo di Propaganda Fide, un’area extraterritoriale della Santa Sede. Fondato nel 1622 da Papa Gregorio XV per formare missionari cattolici, l’edificio è stato progettato da Gian Lorenzo Bernini e ampliato da Francesco Borromini e Alessandro VII Chigi. All’interno, un museo ospita opere interessanti, tra cui un Diluvio Universale di Salvator Rosa e un San Giorgio del Guercino.
 
-### Basilica di Sant'Andrea delle Fratte
+### Basilica di Sant'Andrea delle Fratte: Un Gioiello Barocco nel Cuore di Roma
 
 ![Basilica Sant'Andrea delle Fratte]({{ site.baseurl }}/assets/img/Basilica-Sant-Andrea-delle-Fratte.webp){: width="450px" height="338px"}
 
@@ -213,7 +213,7 @@ La Basilica di Sant'Andrea delle Fratte, situata nel centro di Roma, è famosa p
 
 ## Fontana di Trevi: L'Icona Inconfondibile di Roma
 
-### Fontana di Trevi
+### Fontana di Trevi: Il Magico Incontro tra Arte e Acqua
 
 ![Fontana di Trevi]({{ site.baseurl }}/assets/img/Fontana-di-Trevi.webp){: width="450px" height="338px"}
 
@@ -226,7 +226,7 @@ La Fontana di Trevi è legata all'Acquedotto Vergine, realizzato nel I secolo a.
 {: .text-justify}
 Sebbene il progetto principale sia di Salvi, molti artisti hanno contribuito alla sua realizzazione, rendendo la Fontana di Trevi un esempio splendido di architettura e scultura barocca.
 
-### Mercatini di via delle Muratte
+### Mercatini di via delle Muratte: Un'Esperienza Unica nel Cuore di Roma
 
 ![Mercatini di Via delle Muratte]({{ site.baseurl }}/assets/img/Via-Muratte.webp){: width="450px" height="338px"}
 
@@ -238,14 +238,14 @@ Dopo aver lasciato la Fontana di Trevi, ci dirigiamo verso via delle Muratte, un
 {: .text-justify}
 Piazza Colonna e Piazza Montecitorio sono due delle piazze più significative di Roma, ricche di storia e cultura, che rappresentano il cuore pulsante della vita politica e sociale della capitale. Entrambe offrono un’affascinante combinazione di architettura storica, monumenti e vivaci attività quotidiane.
 
-### Piazza Colonna
+### Piazza Colonna: Dove la Storia si Svela tra le Rovine
 
 ![Piazza Colonna]({{ site.baseurl }}/assets/img/Piazza-Colonna.webp){: width="450px" height="299px"}
 
 {: .text-justify}
 Piazza Colonna è una delle piazze più emblematiche di Roma, dominata dalla Colonna di Marco Aurelio, un monumento che celebra le gesta dell'imperatore con rilievi dettagliati. Oltre a essere circondata da importanti edifici storici, tra cui Palazzo Chigi, la piazza ospita la Galleria Colonna, famosa per la sua ricca collezione d’arte e il suggestivo giardino all’italiana, rendendola un luogo ideale per passeggiate e pause culturali.
 
-### Piazza Montecitorio
+### Piazza Montecitorio: Centro del Potere Politico Italiano
 
 ![Piazza Montecitorio]({{ site.baseurl }}/assets/img/Piazza-Montecitorio.webp){: width="450px" height="338px"}
 
@@ -265,7 +265,7 @@ All'interno, il Pantheon colpisce per la sua grandezza e armonia, con un diametr
 {: .text-justify}
 Oltre alla sua funzione religiosa, il Pantheon è anche un luogo di sepoltura: qui riposa il celebre pittore Raffaello Sanzio, la cui tomba è situata sul lato destro dell'ingresso, a testimonianza della sua importanza nella storia dell'arte. Questo monumento, che ha ispirato artisti e architetti per secoli, continua a essere una meta imperdibile per chi visita Roma.
 
-### Chiesa di San Luigi dei Francesi
+### Chiesa di San Luigi dei Francesi: Un Tesoro di Arte e Spiritualità
 
 ![Chiesa San Luigi dei Francesi]({{ site.baseurl }}/assets/img/Chiesa-San-Luigi-dei-Francesi.webp){: width="450px" height="449px"}
 
@@ -281,28 +281,28 @@ Piazza Navona è una delle piazze più belle e vivaci di Roma, caratterizzata da
 {: .text-justify}
 Piazza Navona è famosa per i suoi artisti di strada, che creano un'atmosfera vivace e coinvolgente. Musicisti, pittori e artisti di vario genere si esibiscono quotidianamente, attirando l'attenzione di turisti e romani. Durante il periodo natalizio, la piazza si trasforma ulteriormente, diventando un luogo di celebrazioni con mercatini di Natale, dove si possono trovare decorazioni festive e dolci tipici, e la tradizione della Befana, una figura folkloristica che porta regali ai bambini. La festa della Befana culmina il 6 gennaio, quando si celebrano eventi speciali e la piazza si riempie di visitatori in cerca di regali e dolciumi.
 
-### Chiesa di Santa Agnese in Agone
+### Chiesa di Santa Agnese in Agone: Un'Icona del Barocco Romano
 
 ![Chiesa di Sant Agnese in Agone]({{ site.baseurl }}/assets/img/Chiesa-SantAgnese-Agone.webp){: width="450px" height="338px"}
 
 {: .text-justify}
 Dominando un lato della piazza c'è la Chiesa di Santa Agnese in Agone, progettata da Francesco Borromini e completata nel 1652. La chiesa è dedicata a Santa Agnese, martire cristiana, e il suo stile barocco è un esempio magistrale dell'arte dell'epoca. All'interno, si possono ammirare affreschi, opere d'arte e una cupola spettacolare che rappresenta il culmine della grandiosità barocca.
 
-### Fontana dei Quattro Fiumi
+### Fontana dei Quattro Fiumi: Un Capolavoro di Gian Lorenzo Bernini
 
 ![Fontana dei 4 Fiumi]({{ site.baseurl }}/assets/img/Fontana-4-Fiumi.webp){: width="450px" height="338px"}
 
 {: .text-justify}
 Al centro di Piazza Navona si trova la Fontana dei Quattro Fiumi, progettata da Gian Lorenzo Bernini. Questa monumentale fontana rappresenta i quattro fiumi più importanti del mondo conosciuto all'epoca: il Nilo, il Gange, il Danubio e la Plata, ognuno dei quali è simboleggiato da una figura maschile. L’opera è caratterizzata da un’imponente obelisco egizio che svetta al centro della fontana.
 
-### Fontana del Moro
+### Fontana del Moro: Un'Opera di Bellezza e Simbolismo
 
 ![Fontana del Moro]({{ site.baseurl }}/assets/img/Fontana-Moro.webp){: width="450px" height="245px"}
 
 {: .text-justify}
 Situata all'estremità meridionale della piazza, la Fontana del Moro è un’altra delle opere di Bernini, completata nel 1653. Raffigura un moro che lotta con un delfino, circondato da tritoni e pesci, ed è apprezzata per la sua eleganza e la dinamicità delle forme.
 
-### Fontana del Nettuno
+### Fontana del Nettuno: Il Fascino del Mare nel Cuore di Roma
 
 ![Fontana del Nettuno]({{ site.baseurl }}/assets/img/Fontana-Nettuno.webp){: width="450px" height="227px"}
 
@@ -315,3 +315,7 @@ All'estremità settentrionale della piazza si trova la Fontana del Nettuno, real
 
 {: .text-justify}
 Campo dei Fiori è una delle piazze più vivaci e caratteristiche di Roma, nota per il suo mercato di frutta e verdura che si svolge ogni mattina. Circondata da ristoranti, bar e botteghe, la piazza è un luogo di incontro per locali e turisti. Al centro si erge la statua di Giordano Bruno, il filosofo e teologo bruciato sul rogo nel 1600, che simboleggia la libertà di pensiero. La piazza, con la sua atmosfera informale e le sue tradizioni, è un perfetto esempio della vita quotidiana romana.
+
+## Conclusione
+
+In conclusione, il centro storico di Roma offre un'esperienza unica che unisce arte, storia e architettura in ogni angolo. Questo itinerario, pur toccando solo alcune delle sue meraviglie, ti regalerà un viaggio attraverso secoli di cultura e monumenti iconici, lasciandoti senza parole davanti alla grandiosità della Città Eterna.
