@@ -37,6 +37,11 @@ Per chi visita Roma per la prima volta o desidera concentrarsi sui suoi monument
 {: .text-justify}
 * **Vaticano e Basilica di San Pietro**: Un percorso che ti conduce attraverso l'arte e la spiritualità del Vaticano, includendo i Musei Vaticani, la Cappella Sistina e la magnifica Basilica di San Pietro.
 
+### Gli Itinerari Alternativi:
+
+{: .text-justify}
+* **Trastevere e Ghetto Ebraico**: Scopri i quartieri più autentici di Roma, passeggiando tra le caratteristiche stradine di Trastevere e il Ghetto Ebraico, ricchi di storia, tradizioni e luoghi suggestivi.
+
 {: .text-justify}
 Troverai questi itinerari nella [Home Page](/#itinerari). Sono ideali per chi vuole scoprire il meglio di Roma in pochi giorni, dedicando ogni giornata a una delle sue aree storiche e culturali più rappresentative.
 
