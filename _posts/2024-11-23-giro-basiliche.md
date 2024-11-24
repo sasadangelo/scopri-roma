@@ -19,7 +19,7 @@ Scopri il fascino spirituale e artistico delle tre basiliche papali più iconich
 ![Itinerario Ghetto Ebraico e Trastevere]({{ site.baseurl }}/assets/img/Itinerario-Ghetto-Ebraico-Trastevere.webp){: width="450px" height="auto"}
 
 {: .text-justify}
-Questo itinerario non è percorribile a piedi, poiché le tre basiliche sono distanti tra loro. Si parte da **Santa Maria Maggiore**, raggiungibile con una passeggiata di 10 minuti da Metro Cavour o Termini, oppure con gli autobus 649, 16, o 360. Arrivando da Termini o Cavour, si giunge a Piazza dell’Esquilino (retro della basilica) e si prosegue verso Piazza Santa Maria Maggiore per l’ingresso principale.
+Questo itinerario non è percorribile a piedi, poiché le tre basiliche sono distanti tra loro. Si parte da **Santa Maria Maggiore**, raggiungibile con una passeggiata di 10 minuti da Metro Cavour o Termini, oppure con gli autobus 649, 16, o 360. Arrivando da Termini o Cavour, si giunge a Piazza dell'Esquilino (retro della basilica) e si prosegue verso Piazza Santa Maria Maggiore per l'ingresso principale.
 
 {: .text-justify}
 [Segui Itinerario su Google Maps](https://maps.app.goo.gl/kozNJg5NBsUywaLD6){: .btn .btn--info target="_blank"}
@@ -57,7 +57,7 @@ La **Cappella Sistina**, detta anche "Cappella del Presepe", fu commissionata da
 ![Basilica di Santa Maria Maggiore - Cappella Paolina]({{ site.baseurl }}/assets/img/Basilica-Santa-Maria-Maggiore-Cappella-Paolina.webp){: width="450px" height="auto"}
 
 {: .text-justify}
-La **Cappella Paolina**, cuore del rinnovamento voluto da Papa Paolo V, è decorata con marmi pregiati e affreschi del Cavalier d’Arpino e dei suoi allievi, tra cui Guido Reni. Il tabernacolo-reliquiario per la **Salus Populi Romani**, realizzato da Girolamo Rainaldi, è rivestito in lapislazzuli. La cupola dipinta da Lodovico Cigoli raffigura Maria nella gloria celeste, poggiando sulla luna, in un omaggio alle scoperte di Galileo Galilei.
+La **Cappella Paolina**, cuore del rinnovamento voluto da Papa Paolo V, è decorata con marmi pregiati e affreschi del Cavalier d'Arpino e dei suoi allievi, tra cui Guido Reni. Il tabernacolo-reliquiario per la **Salus Populi Romani**, realizzato da Girolamo Rainaldi, è rivestito in lapislazzuli. La cupola dipinta da Lodovico Cigoli raffigura Maria nella gloria celeste, poggiando sulla luna, in un omaggio alle scoperte di Galileo Galilei.
 
 ### Il Soffitto Dorato: Un Simbolo di Ricchezza e Devozione
 
@@ -71,7 +71,7 @@ Il soffitto dorato della basilica, realizzato nel XV secolo, è un capolavoro de
 ![Basilica di Santa Maria Maggiore - Cripta Natività]({{ site.baseurl }}/assets/img/Basilica-Santa-Maria-Maggiore-Cripta-Nativita.webp){: width="450px" height="auto"}
 
 {: .text-justify}
-Sotto l’altare maggiore della basilica si trova la Cripta della Natività, luogo di grande devozione e significato storico. Al suo interno si conserva la **Sacra Culla**, una reliquia proveniente dalla mangiatoia di Gesù. Risalente al IV secolo, è uno dei luoghi più venerati di Roma, un ambiente di preghiera intimo e spirituale che rappresenta il cuore della basilica e un punto di riferimento per la fede cristiana.
+Sotto l'altare maggiore della basilica si trova la Cripta della Natività, luogo di grande devozione e significato storico. Al suo interno si conserva la **Sacra Culla**, una reliquia proveniente dalla mangiatoia di Gesù. Risalente al IV secolo, è uno dei luoghi più venerati di Roma, un ambiente di preghiera intimo e spirituale che rappresenta il cuore della basilica e un punto di riferimento per la fede cristiana.
 
 ### Le Maestose Tombe Papali e di Grandi Artisti
 
@@ -92,63 +92,87 @@ La **Cappella Cesi** fu fondata nel 1546 dalla nobile famiglia Cesi. Situata nel
 ![Basilica di Santa Maria Maggiore - Cupola]({{ site.baseurl }}/assets/img/Basilica-Santa-Maria-Maggiore-Cupola.webp){: width="450px" height="auto"}
 
 {: .text-justify}
-Con i suoi 75 metri, è il campanile più alto di Roma e un esempio di architettura romanica. Visibile da lontano, domina l’Esquilino e completa la maestosità della basilica.
+Con i suoi 75 metri, è il campanile più alto di Roma e un esempio di architettura romanica. Visibile da lontano, domina l'Esquilino e completa la maestosità della basilica.
 Dal 22 aprile 2024, è possibile visitare la **Cupola** della Basilica di Santa Maria Maggiore, il punto più alto dell'Esquilino. Da lì, i visitatori possono godere di un panoramico e spettacolare vista su Roma, ammirando la città da un angolo privilegiato e unico.
 
 ## Basilica di San Giovanni in Laterano: La Cattedrale di Roma
 
+![Basilica di San Giovanni in Laterano]({{ site.baseurl }}/assets/img/Basilica-San-Giovanni-Mappa.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-Dalla Basilica di Santa Maria Maggiore, è facile raggiungere **San Giovanni in Laterano** prendendo gli autobus 360, 590 o 714. Questa basilica è la cattedrale di Roma e "madre di tutte le chiese", un luogo di grande importanza storica e spirituale. È la sede del Papa, simbolo del papato e della Chiesa universale.
+**San Giovanni in Laterano**, cattedrale di Roma e "madre di tutte le chiese", è simbolo del papato e della Chiesa universale. Raggiungibile facilmente dalla Basilica di Santa
+Maria Maggiore, rappresenta un luogo di straordinaria importanza storica e spirituale. È qui che il Papa celebra le principali liturgie della diocesi di Roma, rendendo la
+basilica il cuore della cristianità.
 
 ### La Facciata e il Portico
 
+![Basilica di San Giovanni in Laterano]({{ site.baseurl }}/assets/img/Basilica-San-Giovanni.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-La facciata della Basilica di San Giovanni in Laterano, realizzata in stile neoclassico, è una delle più imponenti di Roma. Sostenuta da colonne corinzie, essa introduce i visitatori alla grandiosità della basilica. Il portico antistante, con il suo colonnato, crea un'area solenne di accesso, simbolo della sua importanza religiosa.
+La facciata neoclassica di San Giovanni in Laterano è tra le più imponenti di Roma, con colonne corinzie che donano maestosità. Il portico antistante, ampio e solenne,
+accoglie i visitatori e prepara all'imponente bellezza interna della basilica. Questo ingresso maestoso sottolinea la rilevanza storica e spirituale del luogo, simbolo della
+centralità del cristianesimo nella città eterna.
 
 ### La Navata Centrale e gli Stucchi
 
+![Basilica di San Giovanni in Laterano - Navata Centrale]({{ site.baseurl }}/assets/img/Basilica-San-Giovanni-Navata-Centrale.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-La navata centrale della basilica è maestosa, decorata con stucchi elaborati e affreschi che celebrano la Chiesa e la sua storia. Le pareti laterali ospitano eleganti colonne e dipinti che esaltano la magnificenza spirituale del luogo. Ogni dettaglio architettonico invita alla riflessione e alla devozione.
+La navata centrale, imponente e riccamente decorata, è un capolavoro di stucchi ed affreschi che celebrano la storia della Chiesa. Eleganti colonne e opere d'arte sulle
+pareti laterali rendono l'ambiente spiritualmente coinvolgente. La magnificenza architettonica invita i fedeli e i visitatori a riflettere e ad apprezzare l'eredità
+culturale e religiosa di questo luogo sacro.
 
 ### La Cappella del Santissimo Sacramento
 
+![Basilica di San Giovanni in Laterano - Cappella del SS Sacramento]({{ site.baseurl }}/assets/img/Basilica-San-Giovanni-Cappella-SS-Sacramento.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-La **Cappella del Santissimo Sacramento** è un luogo di grande significato per i fedeli, con il suo altare dorato che ospita l’Eucaristia. Le ricche decorazioni artistiche e l’atmosfera di sacralità riflettono il rispetto e la reverenza che la Chiesa ha per il Corpo di Cristo, celebrato in questo spazio.
+Nel transetto sinistro troviamo la **Cappella del Santissimo Sacramento**, con il suo altare dorato, custodisce l'Eucaristia in un'atmosfera di sacralità. Le decorazioni, ricche di dettagli artistici,
+riflettono la profonda devozione della Chiesa al Corpo di Cristo. Questo spazio è un luogo di preghiera e venerazione, dove i fedeli si raccolgono in meditazione e
+rispetto. Questa cappella raccoglie affreschi sulla via di San Giovanni Evangelista.
 
 ### La Scala Santa
 
+![Basilica di San Giovanni in Laterano - Scala Santa]({{ site.baseurl }}/assets/img/Basilica-San-Giovanni-Scala-Santa.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-La **Scala Santa**, un luogo di pellegrinaggio di grande importanza, è un monumento che segna il cammino di fede dei cristiani. Composta da 28 gradini, si ritiene che questa scala sia quella su cui Gesù salì durante il processo davanti a Pilato. I pellegrini salgono inginocchiati in segno di penitenza.
+La **Scala Santa**, composta da 28 gradini, è un importante luogo di pellegrinaggio. Secondo la tradizione, sarebbe la scala salita da Gesù durante il processo davanti a
+Pilato. I fedeli la percorrono inginocchiati in segno di penitenza, esprimendo la loro devozione e fede. Questo monumento è una tappa fondamentale per chi visita la
+basilica.
 
 ### I Dodici Apostoli: Testimoni della Fede
 
-{: .text-justify}
-Le statue dei **Dodici Apostoli**, collocate sulle colonne della navata, sono tra gli elementi più emblematici della basilica. Ogni apostolo, scolpito con grande maestria, simboleggia i fondamenti della Chiesa e il legame indissolubile con la fede cristiana. Esse sono una testimonianza della continuità e della missione apostolica della Chiesa.
-
-### La Cappella di San Giovanni Battista
+![Basilica di San Giovanni in Laterano - Dodici Apostoli]({{ site.baseurl }}/assets/img/Basilica-San-Giovanni-Apostoli.webp){: width="450px" height="auto"}
 
 {: .text-justify}
-La **Cappella di San Giovanni Battista**, dedicata al santo patrono di Roma, è un rifugio di preghiera nella basilica. L'altare, adornato con marmi pregiati, custodisce reliquie di grande valore spirituale. La cappella è un luogo dove i fedeli si fermano per meditare e invocare la protezione del santo.
+Le imponenti statue dei **Dodici Apostoli**, disposte lungo la navata, rappresentano i pilastri della Chiesa e il suo legame con la fede cristiana. Ogni figura è scolpita con
+maestria per esprimere forza e spiritualità. Questi monumenti, simboli della missione apostolica, arricchiscono il significato religioso e artistico della basilica.
 
 ### Il Presbiterio e l'Altare Maggiore
 
+![Basilica di San Giovanni in Laterano - Altare Maggiore]({{ site.baseurl }}/assets/img/Basilica-San-Giovanni-Altare-Maggiore.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-L’altare maggiore, posto sotto una maestosa baldacchino, è il cuore della Basilica di San Giovanni in Laterano. Qui si celebra la liturgia solenne, con il papa che presiede le funzioni principali. Il presbiterio è arricchito da mosaici che raffigurano scene bibliche, rendendo il luogo un punto di unione tra cielo e terra.
+L'altare maggiore, sormontato da un maestoso baldacchino, è il cuore liturgico della basilica. Qui il Papa celebra le principali cerimonie religiose. Il presbiterio è
+ornato da mosaici che raccontano storie bibliche, unendo arte e spiritualità. Questo spazio centrale rappresenta un punto d'incontro tra cielo e terra, enfatizzando il ruolo
+della basilica come cattedrale di Roma.
 
 ### La Cripta e le Tombe Papali
 
-{: .text-justify}
-La cripta della basilica è un luogo di devozione dove riposano numerosi papi. Tra le tombe papali più importanti si trovano quelle di Papa Giovanni Paolo II e di altri pontefici storici. Questo spazio sotterraneo, solenne e carico di storia, invita alla riflessione sulla continuità della Chiesa e della fede.
-
-### La Colonna di San Pietro
+![Basilica di San Giovanni in Laterano - Cripta]({{ site.baseurl }}/assets/img/Basilica-San-Giovanni-Cripta.webp){: width="450px" height="auto"}
 
 {: .text-justify}
-La **Colonna di San Pietro**, presente all'interno della basilica, è un simbolo del legame tra Roma e il papato. Si ritiene che questa colonna provenga da Gerusalemme e sia stata portata a Roma da Sant'Elena. Essa rappresenta la solida base sulla quale è stata fondata la Chiesa cristiana.
+La cripta di San Giovanni in Laterano accoglie numerosi pontefici, tra cui Papa Giovanni Paolo II. Ogni tomba, semplice ma solenne, riflette la continuità del papato e della
+fede. Questo spazio sotterraneo è carico di storia e invita alla riflessione, rappresentando un forte legame tra passato e presente della Chiesa.
 
 ### Il Giardino e il Cortile Lateranense
 
+![Basilica di San Giovanni in Laterano - Chiostro]({{ site.baseurl }}/assets/img/Basilica-San-Giovanni-Chiostro.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-Il **Cortile Lateranense** e il suo giardino ben curato offrono un angolo di tranquillità lontano dal trambusto cittadino. Questo spazio verde, parte integrante del complesso basilicale, è un luogo perfetto per momenti di riflessione e raccoglimento spirituale, aggiungendo serenità alla visita.
+Il **Cortile Lateranense**, con il suo giardino curato, offre uno spazio tranquillo per la riflessione. Questo angolo verde, all'interno del complesso basilicale,
+rappresenta un'oasi di pace nel cuore di Roma. Perfetto per una pausa spirituale, il giardino aggiunge serenità alla visita, arricchendo l'esperienza dei fedeli e dei
+turisti.
 
 ## Basilica San Paolo Fuori le Mura
 
@@ -158,27 +182,27 @@ Per raggiungere San Paolo Fuori le Mura da San Giovanni in Laterano, è consigli
 ### La Facciata e il Portico
 
 {: .text-justify}
-La facciata della Basilica di San Paolo Fuori le Mura è imponente e maestosa, con un portico che invita i visitatori all’ingresso. La decorazione, sobria e elegante, è un perfetto esempio di architettura neoclassica, mentre le colonne doriche e il grande portale d’ingresso creano una forte impressione di solennità e sacralità.
+La facciata della Basilica di San Paolo Fuori le Mura è imponente e maestosa, con un portico che invita i visitatori all'ingresso. La decorazione, sobria e elegante, è un perfetto esempio di architettura neoclassica, mentre le colonne doriche e il grande portale d'ingresso creano una forte impressione di solennità e sacralità.
 
 ### La Navata Centrale e le Colonne
 
 {: .text-justify}
-La navata centrale di San Paolo Fuori le Mura è maestosa, con le sue eleganti colonne corinzie che la delimitano. L’ambiente è ampio e luminoso, con alte arcate che creano un senso di elevazione spirituale. Ogni dettaglio architettonico, dai capitelli alle decorazioni, invita alla riflessione e alla preghiera.
+La navata centrale di San Paolo Fuori le Mura è maestosa, con le sue eleganti colonne corinzie che la delimitano. L'ambiente è ampio e luminoso, con alte arcate che creano un senso di elevazione spirituale. Ogni dettaglio architettonico, dai capitelli alle decorazioni, invita alla riflessione e alla preghiera.
 
 ### Il Presbiterio e l'Altare Maggiore
 
 {: .text-justify}
-L'altare maggiore della basilica è un capolavoro di arte sacra. Il presbiterio, riccamente decorato, è il cuore liturgico della basilica, dove si celebrano le funzioni religiose. Dietro l’altare, il magnifico mosaico che rappresenta l’Apostolo Paolo dona una visione potente della sua missione e della sua fede indomita.
+L'altare maggiore della basilica è un capolavoro di arte sacra. Il presbiterio, riccamente decorato, è il cuore liturgico della basilica, dove si celebrano le funzioni religiose. Dietro l'altare, il magnifico mosaico che rappresenta l'Apostolo Paolo dona una visione potente della sua missione e della sua fede indomita.
 
 ### La Cripta e la Tomba di San Paolo
 
 {: .text-justify}
-La cripta, situata sotto l’altare maggiore, è uno dei luoghi più sacri della basilica. Qui riposa San Paolo, martire e fondatore della Chiesa. La sua tomba, che attira pellegrini da tutto il mondo, è un punto di riferimento della fede cristiana e un luogo di meditazione profonda.
+La cripta, situata sotto l'altare maggiore, è uno dei luoghi più sacri della basilica. Qui riposa San Paolo, martire e fondatore della Chiesa. La sua tomba, che attira pellegrini da tutto il mondo, è un punto di riferimento della fede cristiana e un luogo di meditazione profonda.
 
 ### I Mosaici del Presbiterio
 
 {: .text-justify}
-I mosaici del presbiterio sono tra i più straordinari della basilica, raffigurando episodi significativi della vita di San Paolo. Questi mosaici, risalenti al IV secolo, sono testimonianze incredibili dell’arte paleocristiana, narrando la vita dell’Apostolo delle genti con una ricchezza di dettagli e colori.
+I mosaici del presbiterio sono tra i più straordinari della basilica, raffigurando episodi significativi della vita di San Paolo. Questi mosaici, risalenti al IV secolo, sono testimonianze incredibili dell'arte paleocristiana, narrando la vita dell'Apostolo delle genti con una ricchezza di dettagli e colori.
 
 ### La Basilica e il Giardino
 
