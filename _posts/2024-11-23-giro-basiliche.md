@@ -16,13 +16,10 @@ Scopri il fascino spirituale e artistico delle tre basiliche papali più iconich
 
 ## Itinerario tra le Basiliche Papali: Un Percorso da Santa Maria Maggiore a San Giovanni e San Paolo
 
-![Itinerario Ghetto Ebraico e Trastevere]({{ site.baseurl }}/assets/img/Itinerario-Ghetto-Ebraico-Trastevere.webp){: width="450px" height="auto"}
+![Itinerario Giro delle Basiliche aRoma]({{ site.baseurl }}/assets/img/Giro-Basiliche-Roma.webp){: width="450px" height="auto"}
 
 {: .text-justify}
 Questo itinerario non è percorribile a piedi, poiché le tre basiliche sono distanti tra loro. Si parte da **Santa Maria Maggiore**, raggiungibile con una passeggiata di 10 minuti da Metro Cavour o Termini, oppure con gli autobus 649, 16, o 360. Arrivando da Termini o Cavour, si giunge a Piazza dell'Esquilino (retro della basilica) e si prosegue verso Piazza Santa Maria Maggiore per l'ingresso principale.
-
-{: .text-justify}
-[Segui Itinerario su Google Maps](https://maps.app.goo.gl/kozNJg5NBsUywaLD6){: .btn .btn--info target="_blank"}
 
 ## Basilica di Santa Maria Maggiore: Un Capolavoro di Fede e Arte
 
@@ -176,60 +173,102 @@ turisti.
 
 ## Basilica San Paolo Fuori le Mura
 
+![Basilica di San Paolo - Mappa]({{ site.baseurl }}/assets/img/Basilica-San-Paolo-Mappa.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-Per raggiungere San Paolo Fuori le Mura da San Giovanni in Laterano, è consigliato prendere gli autobus 23, 716, o 771, che conducono direttamente alla basilica. Situata fuori le mura di Roma, questa basilica è uno dei quattro luoghi santi della città e un simbolo della fede cristiana, dedicata all'Apostolo Paolo.
+San Paolo Fuori le Mura, uno dei quattro luoghi santi di Roma, si trova fuori le mura aureliane. Dedicata all'Apostolo Paolo, è un simbolo della fede cristiana.
+Si può raggiungere facilmente da San Giovanni in Laterano con la metro A fino a Termini e poi cambiare con la metro B fino a San Paolo. La basilica accoglie pellegrini
+da tutto il mondo, attirandoli con la sua storia millenaria e la sua bellezza artistica.
 
 ### La Facciata e il Portico
 
+![Basilica di San Paolo]({{ site.baseurl }}/assets/img/Basilica-San-Paolo.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-La facciata della Basilica di San Paolo Fuori le Mura è imponente e maestosa, con un portico che invita i visitatori all'ingresso. La decorazione, sobria e elegante, è un perfetto esempio di architettura neoclassica, mentre le colonne doriche e il grande portale d'ingresso creano una forte impressione di solennità e sacralità.
+La maestosa facciata di San Paolo Fuori le Mura è un esempio eccezionale di architettura neoclassica. Il portico, sostenuto da colonne doriche, conferisce solennità
+all'ingresso della basilica. I visitatori sono accolti da decorazioni sobrie ma eleganti, che riflettono il carattere sacro del luogo. L'impressionante portale d'ingresso
+invita alla contemplazione e alla scoperta degli spazi interni della basilica.
 
 ### La Navata Centrale e le Colonne
 
+![Basilica di San Paolo - Navata Centrale]({{ site.baseurl }}/assets/img/Basilica-San-Paolo-Navata-Centrale.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-La navata centrale di San Paolo Fuori le Mura è maestosa, con le sue eleganti colonne corinzie che la delimitano. L'ambiente è ampio e luminoso, con alte arcate che creano un senso di elevazione spirituale. Ogni dettaglio architettonico, dai capitelli alle decorazioni, invita alla riflessione e alla preghiera.
+La navata centrale, ampia e luminosa, è fiancheggiata da eleganti colonne corinzie. Le alte arcate e le decorazioni architettoniche creano un'atmosfera che eleva lo spirito,
+guidando i fedeli alla riflessione e alla preghiera. Ogni dettaglio, dai capitelli ai dipinti, testimonia la magnificenza del luogo, rendendolo una tappa fondamentale per i
+pellegrini e gli amanti dell'arte sacra.
 
 ### Il Presbiterio e l'Altare Maggiore
 
+![Basilica di San Paolo - Altare Maggiore]({{ site.baseurl }}/assets/img/Basilica-San-Paolo-Altare-Maggiore.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-L'altare maggiore della basilica è un capolavoro di arte sacra. Il presbiterio, riccamente decorato, è il cuore liturgico della basilica, dove si celebrano le funzioni religiose. Dietro l'altare, il magnifico mosaico che rappresenta l'Apostolo Paolo dona una visione potente della sua missione e della sua fede indomita.
+L'altare maggiore della basilica è un capolavoro di arte sacra. Il presbiterio, riccamente decorato, è il cuore liturgico della basilica, dove si celebrano le funzioni religiose.
+Dietro l'altare, il magnifico mosaico che rappresenta l'Apostolo Paolo dona una visione potente della sua missione e della sua fede indomita.
 
 ### La Cripta e la Tomba di San Paolo
 
+![Basilica di San Paolo - Tomba]({{ site.baseurl }}/assets/img/Basilica-San-Paolo-Tomba.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-La cripta, situata sotto l'altare maggiore, è uno dei luoghi più sacri della basilica. Qui riposa San Paolo, martire e fondatore della Chiesa. La sua tomba, che attira pellegrini da tutto il mondo, è un punto di riferimento della fede cristiana e un luogo di meditazione profonda.
+Sotto l'altare maggiore si trova la cripta, che custodisce la tomba dell'Apostolo Paolo, uno dei luoghi più venerati dai cristiani. La sua posizione centrale attira pellegrini
+da tutto il mondo, offrendo uno spazio di raccoglimento e meditazione. Questo sacro sepolcro è un simbolo della missione evangelizzatrice di Paolo e un punto focale della fede
+cristiana.
 
 ### I Mosaici del Presbiterio
 
+![Basilica di San Paolo - Mosaici]({{ site.baseurl }}/assets/img/Basilica-San-Paolo-Mosaici.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-I mosaici del presbiterio sono tra i più straordinari della basilica, raffigurando episodi significativi della vita di San Paolo. Questi mosaici, risalenti al IV secolo, sono testimonianze incredibili dell'arte paleocristiana, narrando la vita dell'Apostolo delle genti con una ricchezza di dettagli e colori.
+I mosaici del presbiterio sono tra i più straordinari della basilica, raffigurando episodi significativi della vita di San Paolo. Questi mosaici, risalenti al IV secolo,
+sono testimonianze incredibili dell'arte paleocristiana, narrando la vita dell'Apostolo delle genti con una ricchezza di dettagli e colori.
 
 ### La Basilica e il Giardino
 
+![Basilica di San Paolo - Giardino]({{ site.baseurl }}/assets/img/Basilica-San-Paolo-Giardino.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-Il giardino che circonda la basilica è un luogo di pace e serenità, lontano dal trambusto della città. Questo spazio verde, ben curato e tranquillo, offre un angolo di riflessione ideale per i pellegrini e i visitatori, che possono fermarsi a meditare sulla spiritualità del luogo.
+Il giardino che circonda la basilica offre uno spazio di pace e serenità, ideale per la meditazione e il raccoglimento. Curato nei minimi dettagli, rappresenta un'oasi verde
+nel cuore della città. I pellegrini possono godere di questo luogo tranquillo, che completa l'esperienza spirituale della visita alla basilica con momenti di riflessione
+immersi nella natura.
 
 ### Il Colonnato e la Pianta a Croce
 
+![Basilica di San Paolo - Colonnato]({{ site.baseurl }}/assets/img/Basilica-San-Paolo-Colonnato.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-Il colonnato che circonda la basilica è una caratteristica distintiva del suo stile architettonico. Le colonne doriche e corinzie sostengono la struttura, che segue una pianta a croce, simbolo della cristianità. Questa disposizione è progettata per accogliere i fedeli in un ambiente di grande solennità.
+Il colonnato che avvolge la basilica è un elemento architettonico distintivo, con colonne doriche e corinzie che si ergono maestose. La basilica è progettata con una pianta a
+croce, simbolo della cristianità. Questa disposizione crea un senso di ordine e sacralità, guidando i fedeli in un percorso spirituale attraverso i suoi vasti e solenni spazi
+interni.
 
 ### La Cappella di San Lorenzo
 
+![Basilica di San Paolo - Cappella di San Lorenzo]({{ site.baseurl }}/assets/img/Basilica-San-Paolo-Cappella-San-Lorenzo.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-La Cappella di San Lorenzo, situata lateralmente nella basilica, è un luogo di devozione in onore di uno dei martiri più venerati della Chiesa. Il suo altare, riccamente decorato, è un simbolo di sacrificio e fedeltà, mentre la cappella rappresenta un angolo di preghiera intimo e riflessivo.
+Situata in una posizione laterale, la **Cappella di San Lorenzo** è un luogo intimo di devozione. Dedicata al martire romano, la cappella è decorata con eleganti marmi e opere
+d'arte sacra. L'altare, simbolo di sacrificio e fedeltà, invita i fedeli a momenti di riflessione e preghiera, rendendo questa cappella un angolo spirituale nella grandiosa
+basilica.
 
 ### Le Porte di Bronzo
 
+![Basilica di San Paolo - Porte di Bronzo]({{ site.baseurl }}/assets/img/Basilica-San-Paolo-Porte-Bronzo.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-Le celebri porte di bronzo di San Paolo Fuori le Mura sono una meraviglia di arte sacra. Queste porte, che risalgono al XIII secolo, sono decorate con scene bibliche e raffigurano importanti momenti della vita di San Paolo. Sono un accesso simbolico alla basilica, che accoglie i pellegrini con la sua maestosità.
+Le porte di bronzo, risalenti al XIII secolo, sono un autentico gioiello d'arte sacra. Decorate con scene bibliche e momenti della vita di San Paolo, raccontano la storia del
+cristianesimo attraverso immagini potenti. Queste porte, poste all'ingresso della basilica, rappresentano un passaggio simbolico verso un luogo di profonda spiritualità e fede.
 
 ### Il Chiostro
 
+![Basilica di San Paolo - Chiostro]({{ site.baseurl }}/assets/img/Basilica-San-Paolo-Chiostro.webp){: width="450px" height="auto"}
+
 {: .text-justify}
-Il chiostro di San Paolo Fuori le Mura è un angolo di tranquillità e bellezza. Circondato da colonne e decorato con affreschi, è il luogo ideale per una riflessione meditativa. Il chiostro rappresenta l'incontro tra arte e spiritualità, offrendo ai visitatori una pace senza pari.
+Il chiostro di San Paolo Fuori le Mura è un angolo di tranquillità e bellezza. Circondato da colonne e decorato con affreschi, è il luogo ideale per una riflessione meditativa.
+Il chiostro rappresenta l'incontro tra arte e spiritualità, offrendo ai visitatori una pace senza pari.
 
 ## Conclusione
 
 {: .text-justify}
-Le tre basiliche papali di Roma — Santa Maria Maggiore, San Giovanni in Laterano e San Paolo Fuori le Mura — non sono solo luoghi di grande valore spirituale, ma anche capolavori di arte e architettura. Ogni visita a questi santuari offre un'esperienza unica, un viaggio nel cuore della storia cristiana e della fede, dove ogni pietra racconta secoli di tradizione e devozione. Un percorso imperdibile per chi desidera scoprire la profondità spirituale e culturale di Roma.
+Le tre basiliche papali di Roma — Santa Maria Maggiore, San Giovanni in Laterano e San Paolo Fuori le Mura — non sono solo luoghi di grande valore spirituale, ma anche
+capolavori di arte e architettura. Ogni visita a questi santuari offre un'esperienza unica, un viaggio nel cuore della storia cristiana e della fede, dove ogni pietra racconta
+secoli di tradizione e devozione. Un percorso imperdibile per chi desidera scoprire la profondità spirituale e culturale di Roma.
