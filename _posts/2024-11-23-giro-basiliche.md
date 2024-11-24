@@ -6,7 +6,7 @@ permalink: /giro-basiliche/
 categories: Itinerari
 classes: wide
 author_profile: false
-excerpt: "Esplora Trastevere e il Ghetto Ebraico, due quartieri ricchi di storia e cultura. Passeggia tra stradine pittoresche, scoprendo tradizioni millenarie, antiche sinagoghe e il fascino autentico della Roma più nascosta."
+excerpt: "Esplora le basiliche di San Paolo, San Giovanni in Laterano e Santa Maria Maggiore. Un percorso spirituale e culturale tra storia, arte e religione nel cuore di Roma."
 ---
 
 ## Un Viaggio Tra le Tre Basiliche Papali di Roma: Storia, Fede e Arte
