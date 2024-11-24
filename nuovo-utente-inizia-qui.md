@@ -42,7 +42,7 @@ Per chi visita Roma per la prima volta o desidera concentrarsi sui suoi monument
 {: .text-justify}
 * **Trastevere e Ghetto Ebraico**: Scopri i quartieri più autentici di Roma, passeggiando tra le caratteristiche stradine di Trastevere e il Ghetto Ebraico, ricchi di storia, tradizioni e luoghi suggestivi.
 
-* **Villa Borghese e Bioparco**: Esplora i giardini di Villa Borghese, visita la Galleria Borghese con i suoi capolavori e scopri il BioParco, un'area dedicata alla fauna, per un'esperienza che unisce
+* **Villa Borghese e Bioparco**: Esplora i giardini di Villa Borghese, visita la Galleria Borghese con i suoi capolavori e scopri il BioParco, un'area dedicata alla fauna, per un'esperienza che unisce.
 
 {: .text-justify}
 Troverai questi itinerari nella [Home Page](/#itinerari). Sono ideali per chi vuole scoprire il meglio di Roma in pochi giorni, dedicando ogni giornata a una delle sue aree storiche e culturali più rappresentative.
