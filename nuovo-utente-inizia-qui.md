@@ -29,7 +29,7 @@ Per chi visita Roma per la prima volta o desidera concentrarsi sui suoi monument
 ### Gli Itinerari Classici:
 
 {: .text-justify}
-* **Centro Storico**: Un itinerario che ti guida tra le piazze e le fontane più famose di Roma, dalle meraviglie di Piazza Navona alla Fontana di Trevi, attraversando anche il Pantheon e Piazza di Spagna.
+* **Centro Storico**: Un itinerario che ti conduce tra le piazze e le fontane più famose di Roma, da Piazza del Popolo a Piazza di Spagna, passando per la Fontana di Trevi, il Pantheon e le meraviglie di Piazza Navona.
 
 {: .text-justify}
 * **Colosseo e Fori Imperiali**: Un viaggio nel cuore dell'antica Roma, tra l'imponente Colosseo, i Fori Imperiali, e il Palatino, per immergersi nelle storie e nelle leggende della città eterna.
@@ -41,6 +41,8 @@ Per chi visita Roma per la prima volta o desidera concentrarsi sui suoi monument
 
 {: .text-justify}
 * **Trastevere e Ghetto Ebraico**: Scopri i quartieri più autentici di Roma, passeggiando tra le caratteristiche stradine di Trastevere e il Ghetto Ebraico, ricchi di storia, tradizioni e luoghi suggestivi.
+
+* **Villa Borghese e Bioparco**: Esplora i giardini di Villa Borghese, visita la Galleria Borghese con i suoi capolavori e scopri il BioParco, un'area dedicata alla fauna. Un itinerario che include anche Palazzo Borghese, ricco di storia e arte.
 
 {: .text-justify}
 Troverai questi itinerari nella [Home Page](/#itinerari). Sono ideali per chi vuole scoprire il meglio di Roma in pochi giorni, dedicando ogni giornata a una delle sue aree storiche e culturali più rappresentative.
