@@ -42,6 +42,8 @@ Per chi visita Roma per la prima volta o desidera concentrarsi sui suoi monument
 {: .text-justify}
 * **Trastevere e Ghetto Ebraico**: Scopri i quartieri più autentici di Roma, passeggiando tra le caratteristiche stradine di Trastevere e il Ghetto Ebraico, ricchi di storia, tradizioni e luoghi suggestivi.
 
+* **Giro delle Basiliche: Tra Arte e Spiritualità**: Un tour in mezzi pubblici che ti porta alla scoperta delle tre basiliche più importanti di Roma: Santa Maria Maggiore, San Giovanni in Laterano e San Paolo fuori le mura, unendo storia, arte e spiritualità in un percorso imperdibile.
+
 * **Villa Borghese e Bioparco**: Esplora i giardini di Villa Borghese, visita la Galleria Borghese con i suoi capolavori e scopri il BioParco, un'area dedicata alla fauna, per un'esperienza che unisce.
 
 {: .text-justify}
