@@ -41,7 +41,7 @@ Partendo da **Piazza del Popolo**, il cuore pulsante della capitale, si attraver
 Scegli questo itinerario se hai visto poche delle principali attrazioni del Centro Storico: **è sicuramente il percorso più bello e completo per scoprire il cuore di Roma**.
 
 {: .text-center}
-[Vai all'Itinerario](https://www.scopriroma.it/roma-centro-storico/){: .btn .btn--info target="_blank"}
+[Vai all'Itinerario](https://www.scopriroma.it/roma-centro-storico/){: .btn .btn--info}
 
 ### 2. Colosseo e Foro Romano
 
@@ -54,7 +54,7 @@ Inizia dalla chiesa di **San Pietro in Vincoli**, dove puoi ammirare il famoso *
 Scegli questo itinerario **se vedere il Colosseo è per te un’esperienza irrinunciabile** e vuoi scoprire anche i tesori archeologici che lo circondano.
 
 {: .text-center}
-[Vai all'Itinerario](https://www.scopriroma.it/roma-colosseo-foro-romano/){: .btn .btn--info target="_blank"}
+[Vai all'Itinerario](https://www.scopriroma.it/roma-colosseo-foro-romano/){: .btn .btn--info}
 
 ### 3. Vaticano e Basilica di San Pietro
 
@@ -67,7 +67,7 @@ Inizia con una visita al **Castel Sant’Angelo** e una passeggiata lungo **Via 
 Scegli questo itinerario **se vedere la Basilica di San Pietro è per te un’esperienza irrinunciabile** e vuoi esplorare anche i tesori artistici e spirituali che circondano il Vaticano.
 
 {: .text-center}
-[Vai all'Itinerario](https://www.scopriroma.it/vaticano-basilica-san-pietro/){: .btn .btn--info target="_blank"}
+[Vai all'Itinerario](https://www.scopriroma.it/vaticano-basilica-san-pietro/){: .btn .btn--info}
 
 ## Itinerari Alternativi
 
@@ -87,7 +87,7 @@ Un itinerario che ti porterà alla scoperta dei quartieri più autentici e carat
 Scegli questo itinerario se conosci già bene i luoghi classici di Roma e **desideri esplorare due dei quartieri più belli e caratteristici della capitale**.
 
 {: .text-center}
-[Vai all'Itinerario](https://www.scopriroma.it/trastevere-ghetto-ebraico/){: .btn .btn--info target="_blank"}
+[Vai all'Itinerario](https://www.scopriroma.it/trastevere-ghetto-ebraico/){: .btn .btn--info}
 
 ### 5. Giro delle Basiliche: scopri le magnifiche basiliche romane, ciascuna con un’impronta storica e artistica unica.
 
@@ -100,7 +100,7 @@ Questo itinerario ti condurrà alla scoperta delle magnifiche basiliche romane, 
 Scegli questo itinerario **se desideri conoscere le altre tre basiliche papali** e immergerti nella spiritualità e nell’arte che caratterizzano la Roma cristiana.
 
 {: .text-center}
-[Vai all'Itinerario](https://www.scopriroma.it/giro-basiliche/){: .btn .btn--info target="_blank"}
+[Vai all'Itinerario](https://www.scopriroma.it/giro-basiliche/){: .btn .btn--info}
 
 ### 6. Villa Borghese e Bioparco: per una pausa immersa nel verde, tra arte, natura e fauna selvatica.
 
@@ -113,7 +113,7 @@ Se desideri una pausa nel verde, questo itinerario ti offre una combinazione per
 Scegli questo itinerario se conosci già tutti gli itinerari classici, le basiliche, Trastevere e il Ghetto Ebraico, e **desideri passare una giornata all'insegna della natura e del relax**.
 
 {: .text-center}
-[Vai all'Itinerario](https://www.scopriroma.it/villa-borghese-bioparco/){: .btn .btn--info target="_blank"}
+[Vai all'Itinerario](https://www.scopriroma.it/villa-borghese-bioparco/){: .btn .btn--info}
 
 ## Per i Veri Camminatori: Combinare Itinerari Classici
 
