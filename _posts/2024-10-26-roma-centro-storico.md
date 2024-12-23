@@ -85,10 +85,11 @@ Situato nei sotterranei della basilica, il museo offre una ricostruzione delle m
 ![Terrazzo del Pincio]({{ site.baseurl }}/assets/img/Terrazzo-del-Pincio.webp){: width="450px" height="296px"}
 
 {: .text-justify}
-Proseguendo a sinistra dal Museo Leonardo da Vinci, troverai una scalinata che porta al **Terrazzo del Pincio**, situato in cima al colle Pincio, dentro Villa Borghese. Da questa terrazza panoramica si gode una vista spettacolare su Piazza del Popolo e su tutta Roma.
+Proseguendo a sinistra dal Museo Leonardo da Vinci, troverai una scalinata che porta al **Terrazzo del Pincio**, situato in cima al colle Pincio, dentro Villa Borghese. Salita la scala troverai a sinistra una piccola salita di pochi metri chiamata "Salita del Pincio", percorri questa salita e ti troverai sulla terrazza.
+Da qui si gode una vista spettacolare su Piazza del Popolo e su tutta Roma.
 
 {: .text-justify}
-Arrivato in cima, potrai ammirare la cupola di San Pietro e Castel Sant’Angelo. È il luogo perfetto per foto al tramonto o per una passeggiata romantica, apprezzando la bellezza di Roma, anche di sera. Progettato da Giuseppe Valadier nel 1826, il terrazzo è un angolo magico della città.
+Potrai ammirare la cupola di San Pietro e Castel Sant’Angelo. È il luogo perfetto per foto al tramonto o per una passeggiata romantica, apprezzando la bellezza di Roma, anche di sera.
 
 ### Fontana della Dea Roma: Simbolo della Grandezza Romana
 
@@ -103,6 +104,9 @@ Sotto il Terrazzo del Pincio, nell'emiciclo orientale di Piazza del Popolo, si t
 
 {: .text-justify}
 Di fronte alla Fontana della Dea Roma si trova la **Fontana del Nettuno**, anch'essa progettata da Giuseppe Valadier e scolpita da Giovanni Ceccarini tra il 1814 e il 1823. La fontana è caratterizzata da una statua centrale di Nettuno con tridente, affiancato da due tritoni con delfini. L’acqua fluisce da una tazza sopra una grande vasca semicircolare in travertino. Il complesso è stato restaurato nel 1997-1998.
+
+{: .text-justify}
+**Curiosità**: sapevi che il muro semicircolare della 𝐅𝐨𝐧𝐭𝐚𝐧𝐚 𝐝𝐢 𝐍𝐞𝐭𝐭𝐮𝐧𝐨 a 𝐏𝐢𝐚𝐳𝐳𝐚 𝐝𝐞𝐥 𝐏𝐨𝐩𝐨𝐥𝐨 nasconde un sorprendente effetto acustico? Posizionati a un’estremità del muro, mentre un amico si mette al centro: parlate rivolti verso il muro e scoprirete che le vostre voci viaggeranno come un sussurro a pochi centimetri di distanza.
 
 ### Obelisco Flaminio: Il Cuore Egiziano di Piazza del Popolo
 

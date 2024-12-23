@@ -6,7 +6,7 @@ permalink: /cosa-vedere-rome-2-giorni/
 categories: Week-End
 classes: wide
 author_profile: false
-excerpt: "Esplora Villa Borghese e il BioParco di Roma: passeggia tra giardini storici, ammira capolavori di Caravaggio e Tiziano, e scopri la fauna mondiale in un'avventura unica nel cuore della città."
+excerpt: "Scopri Roma in 2 giorni: ammira i grandi classici come il Colosseo e la Basilica di San Pietro, ma esplora anche lati inaspettati tra i vicoli di Trastevere e il quartiere Coppedè, per un viaggio tra storia, arte e autenticità."
 
 ---
 
@@ -23,12 +23,7 @@ Gli itinerari che ti propongo sono divisi in due categorie: **classici** e **alt
 ![Itinerari Classici]({{ site.baseurl }}/assets/img/Itinerari-Classici.webp){: width="450px" height="298px"}
 
 {: .text-justify}
-Se è la tua prima volta a Roma o desideri vedere i luoghi più iconici, gli itinerari classici ti guideranno attraverso i monumenti e le piazze più celebri della città.
-
-{: .text-justify}
-La figura mostra i 3 itinerari sulla cartina, notate la linea rossa che congiunge i primi due itinerari. Più avanti vedremo che
-per le persone più allenate sarà possibile congiungere i due itinerari così da poter condensare in 1 giorno due diversi itinerari così da poter
-percorrere, in soli due giorni, tutti gli itinerari classici.
+Se è la tua prima volta a Roma o desideri vedere i luoghi più iconici, gli itinerari classici ti guideranno attraverso i monumenti e le piazze più celebri della città. Dal Colosseo a Piazza Navona, passando per la Fontana di Trevi e il Pantheon, questi percorsi ti offriranno un viaggio nel cuore della storia e della bellezza romana.
 
 ### 1. Roma Centro Storico
 
@@ -115,21 +110,10 @@ Scegli questo itinerario se conosci già tutti gli itinerari classici, le basili
 {: .text-center}
 [Vai all'Itinerario](https://www.scopriroma.it/villa-borghese-bioparco/){: .btn .btn--info}
 
-## Per i Veri Camminatori: Combinare Itinerari Classici
-
-{: .text-justify}
-Se sei un appassionato camminatore e desideri vedere il massimo in due giorni, puoi combinare l’Itinerario del **Centro Storico** con quello del **Colosseo e Foro Romano**.
-
-{: .text-justify}
-Unendo i due itinerari, puoi iniziare dal Centro Storico, percorrendo il classico giro che tocca Piazza del Popolo, Fontana di Trevi e Campo de’ Fiori, per poi dirigerti verso Largo di Torre Argentina. Da lì, puoi intraprendere il secondo itinerario al contrario, passando da Piazza Venezia e Campidoglio fino a Colosseo. Per risparmiare qualche chilometro, puoi decidere, ad esempio, di fermarti al Colosseo e non proseguire verso San Pietro in Vincoli.
-
-{: .text-justify}
-**Attenzione però:** si tratta di un percorso di oltre 8 km e circa due ore senza sosta. Con le fermate per ammirare le attrazioni, fare foto e goderti la città, il tempo totale si allunga notevolmente, e la fatica si fa sentire. Pertanto, se non sei abituato a camminare per lunghe distanze, è consigliabile o evitare di combinare i due itinerari o fare delle soste più lunghe per ricaricare le energie.
-
 ## Conclusione
 
 {: .text-justify}
 Roma è una città che non smette mai di sorprendere, e con soli due giorni a disposizione puoi comunque vivere un’esperienza unica, esplorando alcuni dei suoi luoghi più iconici o scoprendo angoli meno noti ma altrettanto affascinanti. Se è la tua prima volta nella capitale o se hai poco tempo, gli itinerari classici ti offrono una panoramica completa dei suoi monumenti più celebri. Se invece hai già avuto modo di visitare i luoghi più famosi, gli itinerari alternativi ti permetteranno di esplorare Roma in modo diverso, immergendoti nella sua cultura e nella sua storia sotto una nuova luce.
 
 {: .text-justify}
-Che tu scelga gli itinerari classici, alternativi o una combinazione dei due, Roma ti regalerà esperienze indimenticabili. Preparati a camminare, a perderti nelle sue strade e a scoprire, passo dopo passo, la magia di una città che è un vero museo a cielo aperto.
+Che tu scelga gli itinerari classici o alternativi o una combinazione dei due, Roma ti regalerà esperienze indimenticabili. Preparati a camminare, a perderti nelle sue strade e a scoprire, passo dopo passo, la magia di una città che è un vero museo a cielo aperto.
